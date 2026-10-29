@@ -1,0 +1,73 @@
+# 實驗與研究目錄
+
+59 則筆記是歷史實驗範圍，不是59項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
+
+## 頭部（5）
+
+- [下頰—下顎轉折研究｜2026-10-29 13:06 輪](head-cheek-research/NOTES.md)
+- [頭部局部連續性練習｜2026-10-29 13:36](head-cheek-transition/NOTES.md)
+- [頭部差距證據審查｜2026-10-29 14:06](head-evidence-audit/NOTES.md)
+- [頭部整體形體：先分清造型，再驗證方法](head-form-study/NOTES.md)
+- [頭部平面與下顎方向：12:36 學習紀錄](head-plane-study/NOTES.md)
+
+## 頭髮（23）
+
+- [局部髮底到髮束：連續網格擠出練習](base-extrusion/NOTES.md)
+- [髮束分界窄谷：實看圖解後的局部練習](boundary-valley/NOTES.md)
+- [16:36 閉合髮束截面練習](closed-hair-sections/NOTES.md)
+- [小練習：把彎薄片填成封閉髮束，是否就會像頭髮？](closed-profile/NOTES.md)
+- [斜向短髮：先分清露底、穿插與正常遮擋](diagonal-clump-study/NOTES.md)
+- [Elastic Snake：根區遮罩控制實驗](elastic-snake-root-mask/NOTES.md)
+- [18:36 前額弧形主束的局部分層](front-hair-layer/NOTES.md)
+- [2026-10-29 20:06 UTC — Grab 與主髮量研究（無新模型）](grab-main-mass-research/NOTES.md)
+- [20:36 可觀看的官方雕刻操作示範](grab-visible-demo-research/NOTES.md)
+- [18:06 髮束邊界與遮擋分析](hair-occlusion-analysis/NOTES.md)
+- [16:06 髮束覆蓋／厚度的局部練習](hair-overlap-margin/NOTES.md)
+- [19:06 髮尖與內部交界的區分](hair-root-research/NOTES.md)
+- [17:36 小束可見上緣切線練習](hair-tangent-study/NOTES.md)
+- [小練習：截面凸度與扭轉，還是觀看方向？](profile-convexity/NOTES.md)
+- [小練習：先把髮流方向讀對，再調造型](reference-flow/NOTES.md)
+- [小練習：根後半徑過渡，不等於根部接合](root-radius/NOTES.md)
+- [小練習：把共用分叉板拆成可獨立控制的髮塊](separate-clumps/NOTES.md)
+- [尖瀏海構造：來源跟做與適用性失敗](spiky-shell-study/NOTES.md)
+- [19:36 支承區擷取與單端延伸](supported-hair-root/NOTES.md)
+- [根段沿表面延伸：方法練習與失敗](surface-root/NOTES.md)
+- [小練習：相鄰兩束髮根 A/B](two-locks-ab/NOTES.md)
+- [17:06 可見髮束弧度練習](visible-hair-curves/NOTES.md)
+- [從完整外形重新開始：長髮塊造型研究](whole-clump-study/NOTES.md)
+
+## 穿著與支撐（31）
+
+- [胸腰寬面：截面體積假設與過鼓的負結果](chest-volume-sections/NOTES.md)
+- [弧形內貼邊：接縫與自碰撞的有限驗證](curved-facing-contact/NOTES.md)
+- [07:06 — 一條褶皺如何在寬面內起訖](fresh-fold-runout/NOTES.md)
+- [新面片：邊緣擠出與支撐列的獨立方法驗證](fresh-fold-support-loops/NOTES.md)
+- [06:06 研究紀錄：沒有可驗證的3D步驟畫面，不再猜模型](fresh-patch-method-research/NOTES.md)
+- [髮束覆蓋餘量：先理解方法，不硬造新版](overlap-margin-research/NOTES.md)
+- [08:36 — Pose Cloth 只彎不皺：先查路徑，再做受控重播](pose-cloth-event-density/NOTES.md)
+- [09:36 — Pose Cloth 的遮罩限制：固定有效，支撐造型失敗](pose-cloth-mask/NOTES.md)
+- [09:06 — 單次回正並保留折痕：普通 Rotate 的有限驗證](pose-cloth-return/NOTES.md)
+- [08:06 來源學習：整段袖管形變如何產生主褶皺](pose-cloth-source-study/NOTES.md)
+- [03:36 獨立接縫約束小樣：裝飾線、普通邊與縫合彈簧不同](seam-constraint-sample/NOTES.md)
+- [用同一基準對照肩袖：高度分布與袖端斜率](shoulder-reference-fit/NOTES.md)
+- [肩頂—腋下—短袖口：連續衣殼擠出小練習](shoulder-shell-extrusion/NOTES.md)
+- [01:36 袖內淨空：厚度預算有效，但三層假設仍未驗收](sleeve-clearance-study/NOTES.md)
+- [袖身壓縮摺練習 — 2026-10-28 22:06 UTC](sleeve-compression/NOTES.md)
+- [袖口接觸摩擦：先確認有接近接觸區，再比較參數](sleeve-contact/NOTES.md)
+- [03:06 內貼邊落點：形體靠近不等於已縫合](sleeve-facing-landing/NOTES.md)
+- [00:36 袖段主摺漸消練習：方法可見，造型未通過](sleeve-fold-runout/NOTES.md)
+- [02:36 袖口層序假說：把縫口的層數與整段套層分開](sleeve-layer-hypotheses/NOTES.md)
+- [先讀真實翻折層序，而非繼續調摩擦](sleeve-layer-wrap/NOTES.md)
+- [回到可見形體：袖段下緣，不是再調物理](sleeve-lower-contour/NOTES.md)
+- [袖口開口與厚度：先修結構，再學捲袖](sleeve-opening/NOTES.md)
+- [縮小袖口固定區域：回折面是否能參與變形](sleeve-pin-region/NOTES.md)
+- [寬面／窄谷／隆起分組：標註成立，疊加深度的建模方式失敗](sleeve-plane-groups/NOTES.md)
+- [袖口主摺形體判讀 — 2026-10-29 00:06 UTC](sleeve-primary-folds/NOTES.md)
+- [01:06 袖段／前臂比例校準：可量測的改善，結構驗收失敗](sleeve-proportion-check/NOTES.md)
+- [袖端連續回折：先看截面，不用相交圓環](sleeve-return/NOTES.md)
+- [02:06 袖內支撐稽核：不能把沒有人體的空間當成合體](sleeve-support-audit/NOTES.md)
+- [上側主褶搬移：位置接近，形體判讀仍失敗](sleeve-upper-fold/NOTES.md)
+- [07:36 學習：支撐體外的寬布量](supported-cloth-volume/NOTES.md)
+- [支撐形體與局部折區：來源適用性研究](supported-fold-source-review/NOTES.md)
+
+[返回首頁](../README.md) · [復現限制](../REPRODUCING.md)
