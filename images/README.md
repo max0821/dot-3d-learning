@@ -1,6 +1,6 @@
 # 學習圖片目錄
 
-共 135 張精選原始檔，約 82.5 MiB。這次是整理歷史證據，不是新增建模成果。完整原始參考集中保存一次；不把第三方教材媒體放進公開倉庫。
+共 137 張精選原始檔，約 83.8 MiB。135張為歷史證據整理，另新增本輪局部工具實驗的2張渲染比較板。完整原始參考集中保存一次；不把第三方教材媒體放進公開倉庫。
 
 ## 來源與解讀
 
@@ -11,6 +11,8 @@
 - 不宣稱擁有第三方角色設計或教材權利；無額外授權轉載第三方媒體的含意。
 
 ## 實驗入口
+
+- [local-snake-falloff](../experiments/local-snake-falloff/NOTES.md)：2 張
 
 - [base-extrusion](../experiments/base-extrusion/NOTES.md)：3 張
 - [boundary-valley](../experiments/boundary-valley/NOTES.md)：3 張
