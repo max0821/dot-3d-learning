@@ -9,8 +9,8 @@ from urllib.parse import unquote, urlsplit
 def check(root):
     errors = []
     notes = sorted((root / 'experiments').glob('*/NOTES.md'))
-    if len(notes) != 61:
-        errors.append(f'Expected 61 experiment notes; found {len(notes)}')
+    if len(notes) != 62:
+        errors.append(f'Expected 62 experiment notes; found {len(notes)}')
     private = re.compile(r'(?:Sentinel_|libfile_|CalpicoFile_|file_id|/workspace/|/home/agent/|/tmp/)')
     count = 0
     for page in sorted(root.rglob('*.md')):

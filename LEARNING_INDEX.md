@@ -15,7 +15,7 @@
 
 - 使用者指定順序：**頭部整體 → 頭髮 → 五官 → 身體四肢 → 穿著**。目前在頭髮；衣物為既有學習存檔，不搶先延續。
 - 保留人物：`iteration04`（模型未包含）。可見頰顎暫保留；顱頂／後頰／後腦未驗證，**不是完美、不是使用者驗收**。已記錄 SHA256：`35cd1b71c9d288029d93d0fdb8d9741d62a5151bc3bc459ab48c789092b5aaa6`；修改前需重新核對。
-- 最新研究：[尖端修整方法比較](experiments/hair-tip-method-research/NOTES.md)，尚未實作。
+- 最新研究：[主髮量與交疊建構](experiments/hair-mass-overlap-research/NOTES.md)，尚未實作。
 - 最新工具小樣：[局部衰減與 Elastic](experiments/local-snake-falloff/NOTES.md)。尚未整合人物。
 - 使用者提供的作品展示入口：[Max.0821 的 Sketchfab](https://sketchfab.com/Max.0821)。已核對公開目錄名稱及部分作品連結，詳見 [街景與寧夏歷史](history/SCENE_LEARNING_HISTORY.md)；目錄存在不等於逐件驗收。
 
@@ -85,7 +85,7 @@
 
 - **新增理解：** GroomSpike 修整既有鈍末端、Pinch 向筆刷中心收攏、Radius Falloff 局部拉束及 Elastic 整體彈性變形，各自任務不同。不能將 ZBrush 操作直接換成自製 Blender 公式。
 - **適用限制：** 靜態前後圖不提供完整筆觸；細尖端也不等於目標的寬肩、彎曲側緣與分層。Toha 短尖髮只讀章節，影片黑畫面，未看操作；Cain 日文舊文只讀索引保留正文，原站已關閉。
-- **下一個受控試驗（尚未執行）：** 已具寬肩厚度的單束草模上固定根遮罩、網格、視窗及筆觸，只比 Elastic 與 Radius Falloff。先不加 Dyntopo／Remesh／Pinch／平滑等變數。細針、回鉤或錯誤主量仍判失敗，不整合人物。
+- **當時提出的受控試驗（後續已執行，見 F6）：** 已具寬肩厚度的單束草模上固定根遮罩、網格、視窗及筆觸，只比 Elastic 與 Radius Falloff。先不加 Dyntopo／Remesh／Pinch／平滑等變數。細針、回鉤或錯誤主量仍判失敗，不整合人物。
 - **本輪無新模型、無新渲染。** 研究理解不能宣稱造型進步。
 
 ### F6｜局部拉伸較少牽動寬肩，但會形成細頸
@@ -95,6 +95,14 @@
 - **限定結果：** Elastic肩部平均位移約0.11415，局部模式約0.0001603；全遮罩根皆0。局部模式出現細頸，半行程較弱但末端仍鈍；這些小樣單位不是角色毫米，也非角色還原分數。
 - **失敗與限制：** 不保體積，沒有根流或分層；自訂草模的厚度與後側仍是假設。不得以封閉網格或原生操作成功稱造型通過。
 - **停止／下一步：** 不連續微調此葉形束的行程／半徑。轉向相近作者主髮量、寬肩與交疊的可見建構過程；找不到逐步證據時明說。
+
+### F7｜短寬尖束先控制主要面，表面加束不是主量的替代
+**研究未實作。** [來源與觀看限度](experiments/hair-mass-overlap-research/NOTES.md)實讀 [Teng Chia 第99帖](https://www.zbrushcentral.com/t/dragonball-sculpt-i-ssj-goku-ii-freeza/205120/99)，實看普通悟空黑尖髮前後線框 WIP04、黑髮半成品 WIP05、SSJ 灰模，並比較 [Pablo Muñoz Gómez 長捲髮](https://www.pablander.academy/newsletter/stylised-sculpted-hair)七張階段靜圖。
+
+- **新理解：** 短寬尖束可先以少量控制面建立折轉與尖端，再保形密化；長捲髮的表面 CurveTube 是主量與流向成立後的附加，不可拿來替代主量。
+- **證據邊界：** 作者原詞為 Tessellate modifier，不是 Triangulate；該帖未說先存 Morph Target。線框與階段圖不是逐步操作影片，仍未看到髮根交疊／焊接的充分近圖。
+- **下一個有限測試：** 只做一個可見寬尖主束的連續低控制籠，比較保形密化與平滑細分是否改剪影。先查 Blender 對應操作，不直接宣稱 Simple 與作者原工具等價；主形未成立前不加第二束。
+- **限制：** 未有新模型／渲染，不能把「先前平滑方法可能妨礙面與尖端控制」的工作假設當已證明原因。根流和整體交疊仍待學。
 
 ## 三、五官：先把尚未完成的事記清楚
 

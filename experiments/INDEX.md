@@ -1,6 +1,6 @@
 # 實驗與研究目錄
 
-目前 61 則實驗／研究筆記，不是61項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
+目前 62 則實驗／研究筆記，不是62項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
 
 ## 頭部（5）
 
@@ -10,7 +10,10 @@
 - [頭部整體形體：先分清造型，再驗證方法](head-form-study/NOTES.md)
 - [頭部平面與下顎方向：12:36 學習紀錄](head-plane-study/NOTES.md)
 
-## 頭髮（25）
+## 頭髮（27）
+
+- [主髮量與交疊：先選符合造型的建構方式｜研究未實作](hair-mass-overlap-research/NOTES.md)
+- [髮束覆蓋餘量：先理解方法，不硬造新版](overlap-margin-research/NOTES.md)
 
 - [Snake Hook 局部衰減與 Elastic：寬肩保留測試](local-snake-falloff/NOTES.md)
 
@@ -40,14 +43,13 @@
 - [17:06 可見髮束弧度練習](visible-hair-curves/NOTES.md)
 - [從完整外形重新開始：長髮塊造型研究](whole-clump-study/NOTES.md)
 
-## 穿著與支撐（31）
+## 穿著與支撐（30）
 
 - [胸腰寬面：截面體積假設與過鼓的負結果](chest-volume-sections/NOTES.md)
 - [弧形內貼邊：接縫與自碰撞的有限驗證](curved-facing-contact/NOTES.md)
 - [07:06 — 一條褶皺如何在寬面內起訖](fresh-fold-runout/NOTES.md)
 - [新面片：邊緣擠出與支撐列的獨立方法驗證](fresh-fold-support-loops/NOTES.md)
 - [06:06 研究紀錄：沒有可驗證的3D步驟畫面，不再猜模型](fresh-patch-method-research/NOTES.md)
-- [髮束覆蓋餘量：先理解方法，不硬造新版](overlap-margin-research/NOTES.md)
 - [08:36 — Pose Cloth 只彎不皺：先查路徑，再做受控重播](pose-cloth-event-density/NOTES.md)
 - [09:36 — Pose Cloth 的遮罩限制：固定有效，支撐造型失敗](pose-cloth-mask/NOTES.md)
 - [09:06 — 單次回正並保留折痕：普通 Rotate 的有限驗證](pose-cloth-return/NOTES.md)
