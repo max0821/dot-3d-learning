@@ -36,3 +36,16 @@ https://www.clipstudio.net/how-to-draw/archives/155423
 ## 公開文字版範圍
 
 本頁整理既有實驗筆記，未在本次公開整理中重新執行或獨立重現。原始 `.blend`、參考圖、渲染、量測 JSON 與實驗腳本未包含在此文字版；文中檔名只描述當時的證據，不是下載連結。第三方教學內容僅保留公開來源連結與閱讀／觀看範圍，未重散布圖片或程式。歷史階段與下一步以當時紀錄為準，最新方向請見根目錄索引。
+
+
+## 公開附圖
+
+下列為當時保存的原始圖片檔，這次僅整理上傳，沒有重新建模或渲染。研究分析板與舊版渲染不代表新模型；實驗成功、失敗及限制以本文記錄為準。
+
+![four-view-comparison](../../images/head-plane-study/four-view-comparison.jpg)
+
+![reference-jaw-comparison](../../images/head-plane-study/reference-jaw-comparison.jpg)
+
+![shape-controls](../../images/head-plane-study/shape-controls.jpg)
+
+[固定角色原始三視圖](../../images/reference/character-three-views.png)

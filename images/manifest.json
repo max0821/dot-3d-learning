@@ -1,0 +1,1217 @@
+[
+  {
+    "path": "images/reference/character-three-views.png",
+    "bytes": 1821960,
+    "sha256": "7a5a8c202ca8ffb29bb965f6f5767423d18b0f298dc058c26a1f464905a284ac",
+    "source_ownership": "使用者提供固定角色參考圖；使用者明示允許加入此公開學習倉庫。",
+    "kind": "original_user_reference",
+    "width": 1774,
+    "height": 887
+  },
+  {
+    "path": "images/base-extrusion/four_angles_board.png",
+    "bytes": 626462,
+    "sha256": "347892524e0c2c829fb10d84b3a7c359bf9696f0030a3900116006e8e31779af",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 800,
+    "height": 1762
+  },
+  {
+    "path": "images/base-extrusion/reference_comparison.png",
+    "bytes": 338251,
+    "sha256": "0793ad6a21aac9f5da0d1ced1ac40b1a56b23fd32fb4318923c65a8186858b46",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 450
+  },
+  {
+    "path": "images/base-extrusion/base_comparison.png",
+    "bytes": 521814,
+    "sha256": "d4f6f4e034ca01bbd6360656c51bea2e82846b5145a9ea99b9e6620959d8d9a7",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1000,
+    "height": 1098
+  },
+  {
+    "path": "images/boundary-valley/four_angles_board.png",
+    "bytes": 585425,
+    "sha256": "495f04b56608ae1af00073ec515e340ba920c1c5f543d74cea48e370a84ebaab",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 800,
+    "height": 1762
+  },
+  {
+    "path": "images/boundary-valley/reference_comparison.png",
+    "bytes": 328173,
+    "sha256": "a908e6cda0859464e7d194dbd2f941322e3100d027d9956856daf0108272995d",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 450
+  },
+  {
+    "path": "images/boundary-valley/valley_comparison.png",
+    "bytes": 484211,
+    "sha256": "2e479ea24797496dac1f3c70be46f53c47aa18b81a91f48b5ce1bb9f8de66683",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1000,
+    "height": 1098
+  },
+  {
+    "path": "images/chest-volume-sections/four_angles_board.png",
+    "bytes": 343875,
+    "sha256": "19af77c20463b620441dfcd80c0fb87e3dc499eec97deaca5476db26da528a9c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1050
+  },
+  {
+    "path": "images/chest-volume-sections/aligned_comparison.png",
+    "bytes": 378552,
+    "sha256": "32070e7d252f380bc7cbd631e6f044fbfdd17e6ff24bdfb470c1efd5a9fd25d3",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1500,
+    "height": 1120
+  },
+  {
+    "path": "images/chest-volume-sections/evidence_and_revision.png",
+    "bytes": 562111,
+    "sha256": "3214b778d3508f91947313ae12fe416dc5353638ad8b3d718553b6624418a1dc",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1070
+  },
+  {
+    "path": "images/closed-hair-sections/four-view-comparison.jpg",
+    "bytes": 206765,
+    "sha256": "1ecf48504a5bceaf85aad172d32538d008393ccfcde2bf8ed1a76df9859e2992",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1540
+  },
+  {
+    "path": "images/closed-hair-sections/reference-comparison.jpg",
+    "bytes": 181743,
+    "sha256": "f8c9816d6c3278cb4b9d2ef38cccc3e051898eea0c19d02f8da0b22fa873d4ec",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 850
+  },
+  {
+    "path": "images/closed-profile/four_angles_board.png",
+    "bytes": 540889,
+    "sha256": "b731c51ba252a7471391aecb52822985da864e451e9b4cd0a9936bb13aca9d25",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1020,
+    "height": 1560
+  },
+  {
+    "path": "images/closed-profile/reference_local_comparison.png",
+    "bytes": 334387,
+    "sha256": "bfccc47a220244f2d2862a9310975e8553547450f2ee672b3896913f20b01d67",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 490
+  },
+  {
+    "path": "images/closed-profile/evaluated_section.png",
+    "bytes": 20513,
+    "sha256": "da47e7ed88181c43f6ef1b6bb4e25c4b7722fea5258947f1913bb864dfd0bd09",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1200,
+    "height": 560
+  },
+  {
+    "path": "images/curved-facing-contact/four_angles_board.png",
+    "bytes": 1470184,
+    "sha256": "4ccafa91ed79261484993e92100385e25baf733d1b9bf3f422e4ddfcfeac93bf",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2655
+  },
+  {
+    "path": "images/curved-facing-contact/temporal_comparison.png",
+    "bytes": 1083345,
+    "sha256": "c908ce7cf885c7a1911cf733ef599fb59f7ba2648dbd86fbf5159cf85b296e40",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2005
+  },
+  {
+    "path": "images/diagonal-clump-study/diagnostic-fourviews.jpg",
+    "bytes": 336744,
+    "sha256": "dbf0b711dc004f73e283736171f5d27f605533878a5a9d375089c788bdaeae48",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1140
+  },
+  {
+    "path": "images/diagonal-clump-study/reference-diagnostic.jpg",
+    "bytes": 336184,
+    "sha256": "04e25a652435ed370050c763cfac030c91882ba592a3f7dc83c39bc8d43c7dec",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 830
+  },
+  {
+    "path": "images/elastic-snake-root-mask/comparison-board.png",
+    "bytes": 232854,
+    "sha256": "c9bf020866f96bfa2900cf7f6c2f550854f207d7edc8735cdce0e61ec9322726",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1280,
+    "height": 1080
+  },
+  {
+    "path": "images/elastic-snake-root-mask/correction-board.png",
+    "bytes": 178663,
+    "sha256": "70a0b4db75c350a7f0e85ec24b7810b6e71bea533ea4c9f479348d2bc81a2eda",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1280,
+    "height": 790
+  },
+  {
+    "path": "images/fresh-fold-runout/four_angles_board.png",
+    "bytes": 1279292,
+    "sha256": "e2f6a26fcaa447259d08398f01c2590929e8d0d1e6456c0fa1102058c2948b42",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2670
+  },
+  {
+    "path": "images/fresh-fold-runout/reference_context.png",
+    "bytes": 319713,
+    "sha256": "9fa4eb7bdf969cf821e8764a12d103afad53ebfed1228f0e3023f7751dd67c5c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 720
+  },
+  {
+    "path": "images/fresh-fold-runout/section_runout_comparison.png",
+    "bytes": 223735,
+    "sha256": "93f0c19bec002db1d857e0e44d7d18f5b11692b0c18037a28777e8b5267b31cf",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1170,
+    "height": 1300
+  },
+  {
+    "path": "images/fresh-fold-support-loops/four_angles_board.png",
+    "bytes": 826214,
+    "sha256": "df17193e024e2bbf025f1a6490a56d0e6ff65257b8fab6a392e505ae3e1296ce",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2670
+  },
+  {
+    "path": "images/fresh-fold-support-loops/reference_context.png",
+    "bytes": 263680,
+    "sha256": "ed5ff969819979909399e6b5f36256a1d7500a0a22402e4e03fd4b432aac245e",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 720
+  },
+  {
+    "path": "images/fresh-fold-support-loops/section_method_comparison.png",
+    "bytes": 159714,
+    "sha256": "d8459905466f9a25d7ae7728f4e1a24cfa9f2bc433376a3c41afdce635f9609c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1920,
+    "height": 800
+  },
+  {
+    "path": "images/front-hair-layer/four-view-comparison.jpg",
+    "bytes": 169217,
+    "sha256": "106a82fddee89f372478d69bf8543dab3dd26f4eeb5a3afc1f35a9968bc2f95e",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "images/front-hair-layer/reference-comparison.jpg",
+    "bytes": 197061,
+    "sha256": "9b85a0c098f63ba8cdb608da43f55989be96a0047c3321062e5f0d82173248a9",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 850
+  },
+  {
+    "path": "images/hair-occlusion-analysis/reference-boundary-analysis.jpg",
+    "bytes": 354163,
+    "sha256": "05858492fa81ec995a23ef7905a5dca9e8d6d12082840dc632f85b11ae00b9e0",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "annotated_user_reference",
+    "width": 1640,
+    "height": 1060
+  },
+  {
+    "path": "images/hair-overlap-margin/four-view-comparison.jpg",
+    "bytes": 203619,
+    "sha256": "bb85dda84df9e2ac5961e0e313b0c2f332088613acddb966b6ecdc76ab2ff1ea",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1540
+  },
+  {
+    "path": "images/hair-overlap-margin/reference-comparison.jpg",
+    "bytes": 183951,
+    "sha256": "97644153cc975fb285272e161319cee8f65ce9178903b22f54137f65fb0adb6d",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 850
+  },
+  {
+    "path": "images/hair-root-research/root-tip-evidence.jpg",
+    "bytes": 273255,
+    "sha256": "36ee9bcd52bbe5b4fa1e335d51f6db2f5668616c2c07a16d949d8d1cc774ecb8",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "annotated_user_reference",
+    "width": 1500,
+    "height": 980
+  },
+  {
+    "path": "images/hair-tangent-study/four-view-comparison.jpg",
+    "bytes": 163301,
+    "sha256": "bbfb64a5fe36a640a1546c54e4726bb0708e44928b8f1a6ce871c0b4d004eb27",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "images/hair-tangent-study/reference-comparison.jpg",
+    "bytes": 187423,
+    "sha256": "d2b4c425789fd4f84e2405875d51a36afe3784ed1f453d6411ba33a5fe7c9a4d",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 850
+  },
+  {
+    "path": "images/head-cheek-research/reference-comparison-prior-renders.jpg",
+    "bytes": 306350,
+    "sha256": "e4569193bfe8a85f5174c8d482b2d7af6928871f43be802a687417cddab6da33",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "prior_render_analysis_not_new_model",
+    "width": 1800,
+    "height": 635
+  },
+  {
+    "path": "images/head-cheek-research/research-diagnostic-prior-renders.jpg",
+    "bytes": 135570,
+    "sha256": "87e2d85f055ef3a8201bb74f62ae0a66a67b856c4228c34365622dfb1007bb4a",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "prior_render_analysis_not_new_model",
+    "width": 1350,
+    "height": 1580
+  },
+  {
+    "path": "images/head-cheek-transition/four-view-ABC.jpg",
+    "bytes": 134256,
+    "sha256": "3cc53e84e73373543c73cb4d95738c23084d46b335c678e68e019758f794c0cf",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1650,
+    "height": 1510
+  },
+  {
+    "path": "images/head-cheek-transition/reference-ABC.jpg",
+    "bytes": 266520,
+    "sha256": "b869ed0b2cc8ab51d5f9a9a312c1eadac58eacf168ed98854e4569b02319c95c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 570
+  },
+  {
+    "path": "images/head-evidence-audit/evidence-audit.jpg",
+    "bytes": 365813,
+    "sha256": "04237d1c39cf8deac06739d43a1e769cd4530f7f86c6cf07e20bfd2f71d3b584",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "prior_render_analysis_not_new_model",
+    "width": 1500,
+    "height": 1060
+  },
+  {
+    "path": "images/head-form-study/four-view-comparison.jpg",
+    "bytes": 109441,
+    "sha256": "1d7bce09a2eadfe7fdb89ee97c20cb0fbf7873997f1c6537b9aac630c65a795c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1350,
+    "height": 1500
+  },
+  {
+    "path": "images/head-form-study/reference-jaw-comparison.jpg",
+    "bytes": 304569,
+    "sha256": "74855be9195bf55b0ff4fb34444a2d928ae60a70cb2f00a952abbe09e8942c21",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 580
+  },
+  {
+    "path": "images/head-form-study/shape-controls.jpg",
+    "bytes": 58838,
+    "sha256": "6a205a74841a22b80830e8e9e446ac42bafd69c3a1165238b316ddf21ac6d871",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1350,
+    "height": 800
+  },
+  {
+    "path": "images/head-plane-study/four-view-comparison.jpg",
+    "bytes": 113655,
+    "sha256": "7e157f1036c253b0fa21ff8acfcee34838efe91c4bcca22092b0a1eb03527ecf",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1350,
+    "height": 1500
+  },
+  {
+    "path": "images/head-plane-study/reference-jaw-comparison.jpg",
+    "bytes": 306497,
+    "sha256": "77d34255754a83663974605efb5b3d3e4c7a981091b3f5a08263b63ada8d7625",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 580
+  },
+  {
+    "path": "images/head-plane-study/shape-controls.jpg",
+    "bytes": 62420,
+    "sha256": "53b143c1dbc27cb764d5abb8706097dad26a58b9f1eebafcaa59cb78f4a22c58",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1350,
+    "height": 800
+  },
+  {
+    "path": "images/pose-cloth-event-density/four_angles_board.png",
+    "bytes": 334789,
+    "sha256": "297fa91f142c8886036fb44b233536602998493678f8047ed8a0b1c73ecf6903",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1000
+  },
+  {
+    "path": "images/pose-cloth-event-density/reference_comparison.png",
+    "bytes": 1704286,
+    "sha256": "edc54238a7aeeb884b15e9c84d875df89b0749cab93c8d564d60964e6e8cd663",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1450
+  },
+  {
+    "path": "images/pose-cloth-mask/four_angles_board.png",
+    "bytes": 331040,
+    "sha256": "c7a3c3d6908da22a1afa3a30550338fa54a8853775ba468807729b4f47fc024e",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1000
+  },
+  {
+    "path": "images/pose-cloth-mask/reference_comparison.png",
+    "bytes": 1699780,
+    "sha256": "15a654d85ff06c271d34577aa1c3f62c6d7fd11b112177cbffacbfcbf9a320a2",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1450
+  },
+  {
+    "path": "images/pose-cloth-return/four_angles_board.png",
+    "bytes": 341443,
+    "sha256": "f6d73e176a1e030bff4cbb73903ef8684646f032f817bea9335314f895cff9e8",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1000
+  },
+  {
+    "path": "images/pose-cloth-return/reference_comparison.png",
+    "bytes": 1705153,
+    "sha256": "20ece4e9adc576b1dab87cd8e82a35ab6f8d9ed3ed65f09f0b29438eb35192b4",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1450
+  },
+  {
+    "path": "images/pose-cloth-source-study/four_angles_board.png",
+    "bytes": 285651,
+    "sha256": "04e6371583736a523ccb3de5a0401ce00a3e56b84cf2cb99ab89774922b5413f",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1000
+  },
+  {
+    "path": "images/pose-cloth-source-study/reference_comparison.png",
+    "bytes": 1676229,
+    "sha256": "c8f646238e19ca6a5314d620391c9225deab325e08d9a38fa5cb3885ac2a7851",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1450
+  },
+  {
+    "path": "images/profile-convexity/four_angles_board.png",
+    "bytes": 619757,
+    "sha256": "0e0049ee9a37352081cb3b0a0392cbbd24f1d0914e148e44851bb171857a40b2",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1080,
+    "height": 1638
+  },
+  {
+    "path": "images/profile-convexity/cross_section_controls.png",
+    "bytes": 25235,
+    "sha256": "5a4279989e307fac3922a0a56a8e109f2125f1cdb8f94f58e20b6cc8b30c0391",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1000,
+    "height": 660
+  },
+  {
+    "path": "images/reference-flow/four_angles_board.png",
+    "bytes": 542516,
+    "sha256": "e05c68305b37604b92aa21462da77a7002e5abd5aa337d0d16af30b852238d3a",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 720,
+    "height": 1603
+  },
+  {
+    "path": "images/reference-flow/reference_flow_comparison.png",
+    "bytes": 356230,
+    "sha256": "7afb839301b30b8fc33ba73aee81989180d5a513b91f9a7e7e1291ab67173f07",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 510
+  },
+  {
+    "path": "images/root-radius/four_angles_board.png",
+    "bytes": 635485,
+    "sha256": "6efdd7c48647653a1d6f97f8efcdf79023ae09bab1d4d3f30537510465dcb6fc",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 800,
+    "height": 1762
+  },
+  {
+    "path": "images/root-radius/root_transition_comparison.png",
+    "bytes": 530458,
+    "sha256": "d85203541fbd412715684379ad62c900dc2c0589feec7b1d47a53b379a253b8d",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1000,
+    "height": 1098
+  },
+  {
+    "path": "images/seam-constraint-sample/four_angles_board.png",
+    "bytes": 646253,
+    "sha256": "8953824571f38dd8ae57b39021d3977dce75f83bb42a30b89e1158af2de4afc6",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2655
+  },
+  {
+    "path": "images/seam-constraint-sample/temporal_comparison.png",
+    "bytes": 515953,
+    "sha256": "0670ea43a88095b94ee7e90021223e74cd6d73fdbed8b26b02ab7ba37365e825",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2005
+  },
+  {
+    "path": "images/separate-clumps/four_angles_board.png",
+    "bytes": 579521,
+    "sha256": "c2c6c9500a569ca7467ff06e0bdcb4079651d7014ca563d8206128507df2b6c4",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1020,
+    "height": 1535
+  },
+  {
+    "path": "images/separate-clumps/reference_occlusion_study.png",
+    "bytes": 626204,
+    "sha256": "d9fd613117c780a6e9dc40c166c0b3488e2488db4ca9d914473e6ec112ca0666",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 690
+  },
+  {
+    "path": "images/separate-clumps/construction_comparison.png",
+    "bytes": 419835,
+    "sha256": "7c9ececc085edc4750378b60e194585b05bf0a016befaf01b00873b54099e755",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 905
+  },
+  {
+    "path": "images/shoulder-reference-fit/four_angles_board.png",
+    "bytes": 362474,
+    "sha256": "89752f60c3753404f186ac7c5459f5d445caa858f836ab68eb30a736f33b0f8a",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1050
+  },
+  {
+    "path": "images/shoulder-reference-fit/aligned_comparison.png",
+    "bytes": 405073,
+    "sha256": "a25b9256d54707511e56706043daf3f820f57d4fd715ddba5e40be0403196c23",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1500,
+    "height": 1120
+  },
+  {
+    "path": "images/shoulder-shell-extrusion/four_angles_board.png",
+    "bytes": 489848,
+    "sha256": "18b75371dccb9c0748b1fe88ad3ee6ad610a7a86be586494729a782273182fa5",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1050
+  },
+  {
+    "path": "images/shoulder-shell-extrusion/reference_comparison.png",
+    "bytes": 1771316,
+    "sha256": "41ce3e6b1aa03d570fd9730e7853a5e520030a6408f66c0e52c8b033c8e53ad0",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 1450
+  },
+  {
+    "path": "images/sleeve-clearance-study/four_angles_board.png",
+    "bytes": 1306580,
+    "sha256": "8f4c7593a16e08be2d0b36676d7ec1190e98e849aad3a523aa549c52fcc3ce9e",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-clearance-study/reference_comparison.png",
+    "bytes": 431921,
+    "sha256": "66e00f6ce3b41f561136bfa25c7a64c29de44b410c0768dee28ab547ff05f1fe",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-clearance-study/section_comparison.png",
+    "bytes": 704780,
+    "sha256": "d20f11f6a5e660ea48c09b07469a4c94c366c9b448fa8efa7af458eb1e5f8235",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 2340,
+    "height": 1040
+  },
+  {
+    "path": "images/sleeve-compression/four_angles_board.png",
+    "bytes": 1551135,
+    "sha256": "5febeb2ca1413be3456c5a7ec5e5017e9e5765c28339dfb932abde9dc543e757",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-compression/reference_comparison.png",
+    "bytes": 447964,
+    "sha256": "974cd889bdcf96219b78390ef1f0f512ef113c6b1d59330d384d3e39da81cb5d",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-compression/compression_comparison.png",
+    "bytes": 818779,
+    "sha256": "5af583ec3e274accd1396af30852020caf76b29bcfa521951276acc0d62aea41",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-contact/four_angles_board.png",
+    "bytes": 1653160,
+    "sha256": "96bcb4d4c8d02b5417064b27c82f0872b5dba059c1b0a9a6f191c7b2c86dfb1f",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-contact/reference_comparison.png",
+    "bytes": 443045,
+    "sha256": "661ba3a71f245197a23a40846dd46a570c4811b524bc65ed9448ffa83e5e3280",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-contact/friction_comparison.png",
+    "bytes": 854698,
+    "sha256": "be224520f6fab64fb1dc9ac2de7e23d0237480518a7fb81ce7da1a43084464e9",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-facing-landing/four_angles_board.png",
+    "bytes": 1281570,
+    "sha256": "3cfe74798be269795e1e14839a1ca35ef0d11c1f8e7c522500a66da10c224359",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-facing-landing/reference_comparison.png",
+    "bytes": 422547,
+    "sha256": "de3587f7c2b32f9184375e92868dd5f14130196f887cada53fef684cab0b7124",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-facing-landing/section_comparison.png",
+    "bytes": 569397,
+    "sha256": "0504e14f7e642590b3d81063409c819af516bec81b06d32538fa1902b6bf299c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 2340,
+    "height": 1040
+  },
+  {
+    "path": "images/sleeve-fold-runout/four_angles_board.png",
+    "bytes": 1678635,
+    "sha256": "1ca5108a06c22cee637271ab17a859f42d81bb805cbfea289f0c914f6a91e309",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-fold-runout/reference_comparison.png",
+    "bytes": 389207,
+    "sha256": "9bfed5caa47237df9d6c0e8acd3bc9785c103d3741cf378425701b624991bf58",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-fold-runout/primary_comparison.png",
+    "bytes": 894360,
+    "sha256": "cdfdf99e5c651ba2abfd09f85d1061df7804139b0d9485276455649b9f1222db",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-layer-hypotheses/four_angles_board.png",
+    "bytes": 1321109,
+    "sha256": "08ddbb8ab6fca088464a5323947b901306f0650db53c7cb947f9f70e30f09f32",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-layer-hypotheses/reference_comparison.png",
+    "bytes": 434055,
+    "sha256": "2ef86ef1ee681fbe5b68c3f379abeee97177f8208ac3ae2e8f9f34f702817770",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-layer-hypotheses/section_comparison.png",
+    "bytes": 553492,
+    "sha256": "b12055bc4ddeb550a869f8d37c9e8f6285314cf74935b659aa8eeac37a68973b",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 2340,
+    "height": 1040
+  },
+  {
+    "path": "images/sleeve-layer-wrap/four_angles_board.png",
+    "bytes": 1774667,
+    "sha256": "0e10fab589dad2c7666f3f51e68189098f5231e347081498f83821e9907b0e41",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-layer-wrap/reference_comparison.png",
+    "bytes": 426459,
+    "sha256": "baebf0ce62f23bcfd74864e9dda53148b4a6d623d09cd6faaa18c554ce296dfb",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-layer-wrap/layer_comparison.png",
+    "bytes": 934824,
+    "sha256": "a1d5d435bcb1e737d43dd42d03d896be2a829b2cfb02437dd575ccc1acd514ee",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-lower-contour/four_angles_board.png",
+    "bytes": 1374284,
+    "sha256": "e860a036e3ca3f241ffca870b52e6ad03b6d989f0c9bdab1a90dc5a39e060d61",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-lower-contour/reference_comparison.png",
+    "bytes": 456896,
+    "sha256": "a9133442c572cae520326129730ff2164932dcd84f4790d0077b33bc96e80268",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-lower-contour/landmark_comparison.png",
+    "bytes": 455405,
+    "sha256": "84ed0b9fba545beb4c01c6e89f2a91a34ef088bc10c0786ef5eb511b9b288b5f",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 670
+  },
+  {
+    "path": "images/sleeve-opening/four_angles_board.png",
+    "bytes": 1518457,
+    "sha256": "828802f4bed6ae4dc4500685fef160fc4497e670acc21c474f146b0f798a1d96",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-opening/reference_comparison.png",
+    "bytes": 432863,
+    "sha256": "937f261de7b243866ff4d347c2f8321299720b716528e78c26cd772081618d73",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-opening/opening_comparison.png",
+    "bytes": 740060,
+    "sha256": "aebe71a838b975a1d437d4018fb0a932bdd991b750f87e6048f60cd3be2447cf",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-pin-region/four_angles_board.png",
+    "bytes": 1764007,
+    "sha256": "44c96e6df775e95935d494c541e49aaeac23a92212247d2af38faca64d05c483",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-pin-region/reference_comparison.png",
+    "bytes": 443810,
+    "sha256": "fde4d681cc2cd272b05dacbe1d13c541c2e97c47726a3fcdd8e6f17f0a161344",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-pin-region/pin_comparison.png",
+    "bytes": 930630,
+    "sha256": "f329d89c9bec9fdef10d9b45aec1ec72c74eab866a982e43f7614937d5bdf0fa",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-plane-groups/four_angles_board.png",
+    "bytes": 1421506,
+    "sha256": "43e580a361a19b35ec0674f31012d0b46c807a5963a93496599752b9178dbdff",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-plane-groups/reference_comparison.png",
+    "bytes": 513576,
+    "sha256": "aef8ef88ed360594c18b8a15646fd3d05e43efaf4e4dbaf9a9bbb6a91b867bd9",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-plane-groups/target_plane_interpretation.png",
+    "bytes": 120324,
+    "sha256": "f5da7b461e9da9368a9d96255d9466a43fd4a58313e2d53c58eaf2a8ad21ade9",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "self_authored_analysis_or_render",
+    "width": 1200,
+    "height": 750
+  },
+  {
+    "path": "images/sleeve-primary-folds/four_angles_board.png",
+    "bytes": 1776860,
+    "sha256": "92c20feee6d8610545b241ee1e3cb49e153c2289937e53f637ab8b986f8d68a3",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-primary-folds/reference_comparison.png",
+    "bytes": 434404,
+    "sha256": "e84442d8464e317fe3460f7e046c339fa9d3d152a613cb63263d4e059128d4a5",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-primary-folds/primary_comparison.png",
+    "bytes": 940075,
+    "sha256": "bb694f7519a3a97b9e01a833ca1e214adcf588d3f75384d770b408e5dd81fbb5",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-proportion-check/four_angles_board.png",
+    "bytes": 1799461,
+    "sha256": "d5d6560cdf497cd23d029e3d3b1855d8851154bf9ee7eb99d4c72fe814cbbd17",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-proportion-check/reference_comparison.png",
+    "bytes": 566670,
+    "sha256": "3597062f95a5aef2dcdb8eeb8d563de6c2a3133313d9a566a9bcc195b2c2170f",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-proportion-check/primary_comparison.png",
+    "bytes": 956727,
+    "sha256": "224bbc4bbc643b6cd94a745f084c1e8d03fd3678a0b82b6879f823e6c04899de",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-return/four_angles_board.png",
+    "bytes": 1689395,
+    "sha256": "4cb6849ff1d8cab874def8a355dccd86547cf4b5997ca49138dabbf1786de2c3",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-return/reference_comparison.png",
+    "bytes": 431638,
+    "sha256": "5fdc2dae8679d429076123b993ec3dfc9aedd672045ea8f6a2e3581b87f38b9c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-return/return_comparison.png",
+    "bytes": 894965,
+    "sha256": "dbef5f6f3eca4ba196d546ea2e9de7f0d6f09f7e717b2c27294841c6c824426c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1350
+  },
+  {
+    "path": "images/sleeve-support-audit/four_angles_board.png",
+    "bytes": 1292071,
+    "sha256": "42d35f5bb7d1ca71c534381000396aff62cad7fa962c159174f52dae092fcd7d",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-support-audit/reference_comparison.png",
+    "bytes": 426713,
+    "sha256": "49132262ec06599c55fb9c02f787699cfa198eacfc9f3ca50991dab97bcabe12",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-support-audit/support_comparison.png",
+    "bytes": 293981,
+    "sha256": "b8900296ed43ab9bfca99528902e72deb6adb0f91e67ecc38a766c96c216ef81",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-upper-fold/four_angles_board.png",
+    "bytes": 1382848,
+    "sha256": "5b10dbfc5d78b2df2064207889da63ac8d74ef5ca6a9350a6b2611ee67cd7a12",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2640
+  },
+  {
+    "path": "images/sleeve-upper-fold/reference_comparison.png",
+    "bytes": 455898,
+    "sha256": "fda1d18ce241372ed39a15539d416b1df99d9613f60375dd8c5a2fa221d0aa09",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 705
+  },
+  {
+    "path": "images/sleeve-upper-fold/peak_landmark_comparison.png",
+    "bytes": 455533,
+    "sha256": "c75bf2407983198cf4a95495c546c1e542dc1adeed4343c37f7413c92e31d406",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 680
+  },
+  {
+    "path": "images/spiky-shell-study/AB-fourviews.jpg",
+    "bytes": 219790,
+    "sha256": "e0223a2ac44234f1e6fbc773b6c35ce90b0c0a56bab1ae65dd2673eb684ca902",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1090
+  },
+  {
+    "path": "images/spiky-shell-study/reference-fit.jpg",
+    "bytes": 193791,
+    "sha256": "2db02abab96001689d8af4795405d2a74bbfeba2d64f6f8c5308797ba4219007",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 820
+  },
+  {
+    "path": "images/supported-cloth-volume/four_angles_board.png",
+    "bytes": 1271251,
+    "sha256": "9b7bd7a286b9457afd015a9f9407a9b4beec6928bfe46f31cbaaa0d97f474699",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2650
+  },
+  {
+    "path": "images/supported-cloth-volume/reference_comparison.png",
+    "bytes": 443155,
+    "sha256": "e78c54b584c4065c59ca68294f84d1db7ec02da57f58f746707c35c24c1aedc2",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1800,
+    "height": 715
+  },
+  {
+    "path": "images/supported-cloth-volume/control_cage_comparison.png",
+    "bytes": 383803,
+    "sha256": "752e517828f10a18472184e249a81443dd77323e57583ddacaaabe7637e6e73f",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 715
+  },
+  {
+    "path": "images/supported-hair-root/four-view-comparison.jpg",
+    "bytes": 214716,
+    "sha256": "412725f977225f5fbfba2656c8e53f15851245f8e3ebfe3582b98e9b87923c84",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1540
+  },
+  {
+    "path": "images/supported-hair-root/reference-comparison.jpg",
+    "bytes": 202636,
+    "sha256": "0cbaa7becc5668a3bda89d3fa8680ce2b6896f811223e65488e8108d506014f5",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 850
+  },
+  {
+    "path": "images/surface-root/four_angles_board.png",
+    "bytes": 628780,
+    "sha256": "10315206f2742bc53f0a4217329e13d514060252f23ad99ed96ba421a0423664",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 800,
+    "height": 1762
+  },
+  {
+    "path": "images/surface-root/reference_comparison.png",
+    "bytes": 344145,
+    "sha256": "d8c4fc5dd20de209e06691e1a2efdb4914c15add816cae384202a2e5189b5bac",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 450
+  },
+  {
+    "path": "images/surface-root/surface_root_comparison.png",
+    "bytes": 530259,
+    "sha256": "daf8e744b017cad7a36602427ac9ae19f6834aeb5a30f707e4558050e8d63544",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1000,
+    "height": 1098
+  },
+  {
+    "path": "images/two-locks-ab/four_angles_board.png",
+    "bytes": 1527674,
+    "sha256": "11a83dc3c75ec17a530278a4d9a0c26c11d47af00346597ab24bacc98ef6d547",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 2400,
+    "height": 1320
+  },
+  {
+    "path": "images/two-locks-ab/reference_context.png",
+    "bytes": 362753,
+    "sha256": "6b32c7330057968f82695425bba5297add2df9b4af49504bf873e235327d9e76",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 560
+  },
+  {
+    "path": "images/two-locks-ab/wireframe_board.png",
+    "bytes": 413395,
+    "sha256": "f88a56e675383fa167f09f464f01a0d6ed301c9df805283b5e4b4551d3aa1c6c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 690
+  },
+  {
+    "path": "images/visible-hair-curves/four-view-comparison.jpg",
+    "bytes": 157470,
+    "sha256": "c493ea9b84bb1871dff2f320c98321784c4270db91de4235f96558ce25b42a1c",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "images/visible-hair-curves/reference-comparison.jpg",
+    "bytes": 185050,
+    "sha256": "ade253187941ea3f08c2487f9cdb46164994610317357f0717028456c6551728",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1860,
+    "height": 850
+  },
+  {
+    "path": "images/whole-clump-study/four_angles_board.png",
+    "bytes": 1048705,
+    "sha256": "7504e2dff1924e386e69f1f4d72433a01656823d944cddbe1595e095cee39bd2",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 2670
+  },
+  {
+    "path": "images/whole-clump-study/target_scope_comparison.png",
+    "bytes": 462213,
+    "sha256": "bfbe1159d5d0b19d1450c422e30c772f5a7542fb27fa9883bbce465c7a76be21",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 680
+  },
+  {
+    "path": "images/whole-clump-study/whole_form_comparison.png",
+    "bytes": 560151,
+    "sha256": "1885d863786092b1e460d3ab95b14c4114637b2a5b95af19974a36fa7ad76b41",
+    "source_ownership": "DOTS 實驗自行製作的渲染／分析板；若包含角色原圖裁切，原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1200,
+    "height": 1370
+  }
+]

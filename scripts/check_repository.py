@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline checks for this text-only learning repository. Python 3.9+. No Blender required."""
+"""Offline checks for Markdown and relative links in this illustrated learning repository. Python 3.9+. No Blender required."""
 from pathlib import Path
 import re
 import sys
@@ -39,4 +39,4 @@ if __name__ == '__main__':
     if errors:
         print('\n'.join(errors), file=sys.stderr)
         raise SystemExit(1)
-    print('PASS: local text checks only; no 3D or external URL validation.')
+    print('PASS: Markdown/link checks only; binary images not read as text; no 3D or external URL validation.')

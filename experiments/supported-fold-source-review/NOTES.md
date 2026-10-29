@@ -41,3 +41,10 @@ https://raw.githubusercontent.com/Roblox/creator-docs/main/content/en-us/art/acc
 這是歷史實驗筆記；本文提到的模型、腳本、渲染、量測檔與原始參考圖均未包含於本倉庫，檔名只用於說明實驗，不是下載連結。此文字版不能單獨重跑該實驗，也不構成對結果的獨立重驗。來源讀看範圍保留原紀錄，未在公開整理時重新觀看。
 
 [方法索引](../../LEARNING_INDEX.md) · [復現說明](../../REPRODUCING.md)
+
+
+## 公開附圖
+
+此篇沒有附上可公開的自製實驗圖；不以第三方教材影格或私人操作畫面代替成果。
+
+[固定角色原始三視圖](../../images/reference/character-three-views.png)

@@ -35,3 +35,14 @@ https://help.autodesk.com/cloudhelp/2020/ENU/MayaLT-GettingStarted/files/GUID-DD
 ## 公開版範圍與復現限制
 
 本文是既有實驗筆記的整理；「實讀／實看」與數值結果指當時紀錄，本次公開整理未獨立重跑。原始 `.blend`、實驗腳本、渲染圖、研究用三視圖及第三方教材圖片均未隨本文提供。文中檔名只用於說明歷史證據，不是可下載附件；不可僅憑此文字版宣稱已復現或驗收角色。
+
+
+## 公開附圖
+
+下列為當時保存的原始圖片檔，這次僅整理上傳，沒有重新建模或渲染。研究分析板與舊版渲染不代表新模型；實驗成功、失敗及限制以本文記錄為準。
+
+![four-view-ABC](../../images/head-cheek-transition/four-view-ABC.jpg)
+
+![reference-ABC](../../images/head-cheek-transition/reference-ABC.jpg)
+
+[固定角色原始三視圖](../../images/reference/character-three-views.png)

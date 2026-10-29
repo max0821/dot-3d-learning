@@ -29,3 +29,16 @@ B可讀成上部彎起、下部漸收的完整長束，沒有方片基座；但�
 這是歷史實驗筆記；本文提到的模型、腳本、渲染、量測檔與原始參考圖均未包含於本倉庫，檔名只用於說明實驗，不是下載連結。此文字版不能單獨重跑該實驗，也不構成對結果的獨立重驗。來源讀看範圍保留原紀錄，未在公開整理時重新觀看。
 
 [方法索引](../../LEARNING_INDEX.md) · [復現說明](../../REPRODUCING.md)
+
+
+## 公開附圖
+
+下列為當時保存的原始圖片檔，這次僅整理上傳，沒有重新建模或渲染。研究分析板與舊版渲染不代表新模型；實驗成功、失敗及限制以本文記錄為準。
+
+![four_angles_board](../../images/whole-clump-study/four_angles_board.png)
+
+![target_scope_comparison](../../images/whole-clump-study/target_scope_comparison.png)
+
+![whole_form_comparison](../../images/whole-clump-study/whole_form_comparison.png)
+
+[固定角色原始三視圖](../../images/reference/character-three-views.png)
