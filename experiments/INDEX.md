@@ -1,6 +1,6 @@
 # 實驗與研究目錄
 
-59 則筆記是歷史實驗範圍，不是59項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
+目前 60 則實驗／研究筆記，不是60項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
 
 ## 頭部（5）
 
@@ -10,7 +10,9 @@
 - [頭部整體形體：先分清造型，再驗證方法](head-form-study/NOTES.md)
 - [頭部平面與下顎方向：12:36 學習紀錄](head-plane-study/NOTES.md)
 
-## 頭髮（23）
+## 頭髮（24）
+
+- [尖端修整方法比較：GroomSpike 不等於 Pinch｜研究未實作](hair-tip-method-research/NOTES.md)
 
 - [局部髮底到髮束：連續網格擠出練習](base-extrusion/NOTES.md)
 - [髮束分界窄谷：實看圖解後的局部練習](boundary-valley/NOTES.md)

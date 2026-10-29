@@ -15,6 +15,7 @@
 
 - 使用者指定順序：**頭部整體 → 頭髮 → 五官 → 身體四肢 → 穿著**。目前在頭髮；衣物為既有學習存檔，不搶先延續。
 - 保留人物：`iteration04`（模型未包含）。可見頰顎暫保留；顱頂／後頰／後腦未驗證，**不是完美、不是使用者驗收**。已記錄 SHA256：`35cd1b71c9d288029d93d0fdb8d9741d62a5151bc3bc459ab48c789092b5aaa6`；修改前需重新核對。
+- 最新研究：[尖端修整方法比較](experiments/hair-tip-method-research/NOTES.md)，尚未實作。
 - 最新工具小樣：[Elastic Snake 根遮罩](experiments/elastic-snake-root-mask/NOTES.md)。尚未整合人物。
 - 使用者提供的作品展示入口：[Max.0821 的 Sketchfab](https://sketchfab.com/Max.0821)。已核對公開目錄名稱及部分作品連結，詳見 [街景與寧夏歷史](history/SCENE_LEARNING_HISTORY.md)；目錄存在不等於逐件驗收。
 
@@ -33,7 +34,7 @@
 - **狀態：方法已驗證／造型未通過。** A 下顎過窄，B 回補臉頰只比 A 合理，沒有證明優於04。
 - **戒條：** 不把「更尖、更瘦、更平滑」當進步；正面成立不等於側面體積成立。
 - **下一步：** 若重開頭部，先提出新的可見差異證據，不猜被頭髮遮住的深度。
-- **恢復：** [頭型比較](experiments/head-form-study/NOTES.md)、[頭部平面](experiments/head-plane-study/NOTES.md)、[頰部局部變形](experiments/head-cheek-transition/NOTES.md)、[證據稽核](experiments/head-evidence-audit/NOTES.md)。原實驗曾保存 before/after 或 ABC；本公開倉庫只包含文字筆記。
+- **恢復：** [頭型比較](experiments/head-form-study/NOTES.md)、[頭部平面](experiments/head-plane-study/NOTES.md)、[頰部局部變形](experiments/head-cheek-transition/NOTES.md)、[證據稽核](experiments/head-evidence-audit/NOTES.md)。原實驗曾保存 before/after 或 ABC；本公開倉庫包含筆記及文末有效連結列出的精選圖，不包含原模型與建模腳本。
 
 ### H2｜頭部平面與局部 Move 的適配邊界
 [Proko 頭部量塊](https://stanprokopenko.com/2012/08/video-draw-head-angle-1/) 與 [Kenny 頭部平面](https://kennysarts.gumroad.com/p/planes-of-the-head) 支持區分顱體、顎體與平面；[頭套建模圖解](https://www.fursuitmak.ing/tutorials/3Dheadbase.php) 的局部 Move 與連續面、[Autodesk Soft Selection](https://help.autodesk.com/cloudhelp/2020/ENU/MayaLT-GettingStarted/files/GUID-DD4CF5ED-5017-4934-8678-76AAE1DAC51B.htm) 支持局部過渡。
@@ -77,7 +78,15 @@
 - **造型未通過：** 尚圓鈍，未有原圖尖端／層次；體積仍約比基準增加26.2%，不宣稱保體積。C同改寬度與函數，不能獨歸因其一。
 - **戒條：** 不用自己的頂點移動偽稱原生筆刷；不要再在背景錯誤sculpt context重跑至崩潰；不把 `Grab Silhouette` 解釋為體積守恆。
 - **下一步：** 尖端與主束分層的相近作者實作，不是繼續把同一球塊拉成勾。
-- **恢復：** [Grab研究](experiments/grab-main-mass-research/NOTES.md)、[實看示範](experiments/grab-visible-demo-research/NOTES.md)、[根遮罩完整記錄](experiments/elastic-snake-root-mask/NOTES.md)。原實驗曾保存 baseline／A／B／C、腳本、數據及對照板，本公開版未包含。重播必須有可用 GUI；渲染此build需關閉不支援的去噪。
+- **恢復：** [Grab研究](experiments/grab-main-mass-research/NOTES.md)、[實看示範](experiments/grab-visible-demo-research/NOTES.md)、[根遮罩完整記錄](experiments/elastic-snake-root-mask/NOTES.md)。原實驗曾保存 baseline／A／B／C、腳本、數據及對照板；本公開版已附精選對照板，但未包含模型、原生重播腳本與量測資料。重播必須有可用 GUI；渲染此build需關閉不支援的去噪。
+
+### F5｜修銳末端、局部拉束與彈性拖拉不是同一方法
+**研究未實作。** [本輪方法比較](experiments/hair-tip-method-research/NOTES.md)實看 [moco GroomSpike 複試](https://mononoco.com/?p=13894)四張單幀 GIF，並完整讀 [Blender 4.3 Snake Hook](https://docs.blender.org/manual/en/4.3/sculpt_paint/sculpting/brushes/snake_hook.html) 與 [Pinch](https://docs.blender.org/manual/en/4.3/sculpt_paint/sculpting/brushes/pinch.html) 正文。
+
+- **新增理解：** GroomSpike 修整既有鈍末端、Pinch 向筆刷中心收攏、Radius Falloff 局部拉束及 Elastic 整體彈性變形，各自任務不同。不能將 ZBrush 操作直接換成自製 Blender 公式。
+- **適用限制：** 靜態前後圖不提供完整筆觸；細尖端也不等於目標的寬肩、彎曲側緣與分層。Toha 短尖髮只讀章節，影片黑畫面，未看操作；Cain 日文舊文只讀索引保留正文，原站已關閉。
+- **下一個受控試驗（尚未執行）：** 已具寬肩厚度的單束草模上固定根遮罩、網格、視窗及筆觸，只比 Elastic 與 Radius Falloff。先不加 Dyntopo／Remesh／Pinch／平滑等變數。細針、回鉤或錯誤主量仍判失敗，不整合人物。
+- **本輪無新模型、無新渲染。** 研究理解不能宣稱造型進步。
 
 ## 三、五官：先把尚未完成的事記清楚
 
@@ -140,4 +149,4 @@
 
 ## 公開版內容邊界
 
-固定案例為綠衣、紅圍巾、黑尖髮、空手 T pose 的 Q 版三視圖。原圖、所有人物模型、原始實驗腳本與渲染均未納入此文字版；檔名與基線雜湊是歷史描述，不是下載入口。上述「恢復」連結導向筆記，不代表完整恢復資產隨附。請先讀[復現說明](REPRODUCING.md)。
+固定案例為綠衣、紅圍巾、黑尖髮、空手 T pose 的 Q 版三視圖。已附使用者授權的[固定原圖](images/reference/character-three-views.png)及精選實渲／對照／分析圖；各篇文末「公開附圖」的有效連結表示實際附檔，歷史檔名不代表全數上傳。人物模型、原始建模／重播腳本與求解快取仍未納入。上述「恢復」連結導向筆記及已選圖，不代表完整模型恢復資產隨附。請先讀[復現說明](REPRODUCING.md)。
