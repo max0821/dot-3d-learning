@@ -20,6 +20,8 @@
 - 最新限制補充：[F27接收面門檻](experiments/forelock-support-gate/NOTES.md)：現有主束／鄰束亦5/5未命中；撤回重複餘量延伸。無新模型／圖，下一步改研究寬前殼與主量共同面轉向。
 - 使用者提供的作品展示入口：[Max.0821 的 Sketchfab](https://sketchfab.com/Max.0821)。已核對公開目錄名稱及部分作品連結，詳見 [街景與寧夏歷史](history/SCENE_LEARNING_HISTORY.md)；目錄存在不等於逐件驗收。
 
+- 新增來源比較（研究未實作）：Snowstorm寬扁管可作底量材料，後續合併／重排與保留獨立細束是不同決策。僅實讀作者文字，四張中間圖未取得，不能據此猜Remesh或稱已學會接根；見[F7來源補充](experiments/hair-mass-overlap-research/NOTES.md)。
+
 ### 狀態字典
 - **方法已驗證（局部）**：有實際操作與對照，僅限記錄的機制及條件。
 - **造型未通過**：已有實物，但未符合目標；保留失敗、不替代較佳基線。
