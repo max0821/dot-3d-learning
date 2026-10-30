@@ -62,3 +62,18 @@ build.py相對路徑讀入source-input/registered-context.blend，保留原圖�
 下次不要再測同一高邊投頭／投主束、改Y或延伸tab。改問：**寬前層殼如何與主髮量共同設計，並在側斜視保留有意義的面轉向？** 必須先取得可觀察的具體操作或分階段幾何，不能只看遮住根的完成圖。未知深度仍只可作可撤回設計假設，不是原圖真值。
 
 私人研究保留不改形檢查腳本、結果與相同雜湊輸入；本次未新增公開模型／圖片或第三方媒體。公開本文保留可核對條件及數據，不是獨立模型恢復套件。iteration04不變。
+
+
+## 20:36 來源判讀補充：共同面、整組變形與法線融合分開
+
+2026-10-30 12:36 UTC。**本輪只有來源研究，沒有新模型／渲染，未驗證新的建模方法。** 不增加技能卡或用舊圖當成果。
+
+實讀[aVersion Of Reality／Ascalon的Reimu Workflow Test](https://www.aversionofreality.com/blog/2021/1/22/reimu-hakurei-workflow-test)之The Hair、相關Materials及Shot Specific Adjustments；實看三組GIF各3個離散影格：瀏海拓撲0/20/39、Bbone瀏海0/134/268、hair bevel 0/73/146。沒有看完整動態，未下載或執行作者腳本。
+
+- 拓撲影格顯示前髮大部分從共同上方區域轉向，下緣再分束；Bbone側視展示整組輪廓變化。這提供與孤立窄片後延不同的候選構造，但成形線框不是建構步驟，還不能據此還原接邊。
+- 作者文字區分短髮BendyBone鏈、長髮Lattice分組及組邊約束。另用Cycles烘焙Beveled Normals減弱**長髮**尖銳交界，姿勢變更需重烘焙。不能把所有瀏海效果都歸因於法線，也不能把渲染的融合當成幾何接連或穿插已修。
+- 新增閱讀準則：交叉看線框、側視與材質說明，分開「共同控制面」「多束一起變形」「僅渲染融合」的證據。這是來源理解，不是造型能力已提升，更不是用法線掩蓋缺少主髮量。
+
+[Flat Modeling原教學](https://www.youtube.com/watch?v=lo_FxdSe_F8)只讀描述／章節：播放跳至4:12仍黑畫面，字幕未取得，未看見包覆操作，不把Curve／SimpleDeform／Lattice章節名稱當學會。[作者範例檔公開說明](https://aversionofreality.gumroad.com/l/cRiOn)僅稱quarter-sphere modifier-stack，沒有逐步設定；未交易、下載或執行。
+
+順垂瀏海不是原圖朝上寬尖髮的精確適配；全頭套半球可能重犯[帽簾失敗](../spiky-shell-study/NOTES.md)。保持04，不猜wrap參數、不延長tab、不重新渲染舊模型。下一步來源門檻是可見的平面→彎曲整體中間形、接邊前後或具體設定；取得後先重現一片連續彎面小樣，再考慮角色。第三方GIF僅私人閱讀，不進公開庫或恢復包；本輪沒有新的模型恢復包。
