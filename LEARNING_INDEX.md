@@ -114,6 +114,9 @@ F5收尖選法復習：[完整截面收尖](experiments/row-crosssection-taper/N
 - **當時提出的有限測試（後續已執行，見 F8）：** 只做一個可見寬尖主束的連續低控制籠，比較保形密化與平滑細分是否改剪影。先查 Blender 對應操作，不直接宣稱 Simple 與作者原工具等價；主形未成立前不加第二束。
 - **限制：** 未有新模型／渲染，不能把「先前平滑方法可能妨礙面與尖端控制」的工作假設當已證明原因。根流和整體交疊仍待學。
 
+
+F7主量分區限制補充（研究未實作）：[Hair Tubes 來源審查](experiments/hair-mass-overlap-research/NOTES.md)全文及PDF第3／4頁實看，區分已設計大束的分區與子束收尖；星形輸入仍需人工分區。共同前層表面只是待驗假設，長條髮片例不提供本角色短尖根造型答案；不重試缺接收面的投影，先找短尖髮中間建構步驟。無新模型／圖。
+
 ### F8｜先定尖形，再分開決定加密和平滑
 **方法局部驗證，造型未通過。** [控制籠實驗與四向圖](experiments/spike-control-cage/NOTES.md)重讀 Teng Chia 尖髮方法、實看悟空線框，並讀 [Blender 4.3 Subdivision Surface](https://docs.blender.org/manual/en/4.3/modeling/modifiers/generate/subdivision_surface.html) 的 Simple、Catmull–Clark、crease 與支撐邊說明。
 
