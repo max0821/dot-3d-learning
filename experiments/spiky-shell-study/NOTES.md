@@ -66,3 +66,16 @@ reference-fit.jpg 保留原圖裁切長寬比，和實際B、控制線框並列�
 ![reference-fit](../../images/spiky-shell-study/reference-fit.jpg)
 
 [固定角色原始三視圖](../../images/reference/character-three-views.png)
+
+## 2026-10-31 03:06（Asia/Taipei）｜後半分次束的實看補充
+
+本輪重讀同一篇 dskjal 短文，補實看先前未逐圖驗證的三張中間圖：
+- `blender-modeling-anime-hair-split-bunch-min.jpg`：既有主束側面增加兩條縱線，上方仍延續共同表面。
+- `blender-modeling-anime-hair-move-splitted-bunch.jpg`：頂視移動靠原谷的一條線，形成額外面轉向。
+- `blender-modeling-anime-hair-edited-from-front.jpg`：正面再整理出較短次尖。
+
+這是「從既有主束側面分出次束」，不是外貼一片尖片；圖像尺寸小，不能反推出精確座標或未展示的全部操作。作者提醒分束後不能繼續沿用先前的法線縮放工作法，並非 Blender 從此禁用 Alt+S。
+
+**適用前提與停止原因：** 主束、原谷及頭上排列已經存在；它不能替我們決定目標寬前層從哪個主量伸出。重新看固定原圖，額前兩束之間的深色接線仍不能證明共享分叉而非遮擋。故不重做已否決的規則球殼、不任意加支束；下一步要相近短尖髮的主量分區前後（正面＋斜面）及共享面／交疊／獨立件的明確處理。
+
+本次只補來源實看程度與適用界線；沒有新模型、渲染或已驗證技能，以上附圖仍為歷史成果。第三方教材圖片不收入倉庫。

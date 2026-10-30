@@ -73,6 +73,9 @@
 - **下一步：** 轉回主量塊與層序（F1），不要重新調同一片的厚度。
 - **恢復：** [連續擠出](experiments/base-extrusion/NOTES.md)、[分界谷](experiments/boundary-valley/NOTES.md)、[球殼瀏海](experiments/spiky-shell-study/NOTES.md)、[覆蓋研究](experiments/overlap-margin-research/NOTES.md)、[覆蓋試驗](experiments/hair-overlap-margin/NOTES.md)。
 
+
+F3 來源適用補充（研究未實作）：[dskjal 後半三中間圖](experiments/spiky-shell-study/NOTES.md)本輪補實看，既有主束側面兩縱線→頂視移谷側線→正面次尖；前提是主束與原谷已存在，不能據此猜原圖遮擋根或重做規則球殼。沒有新模型／渲染，不新增已驗技能。
+
 ### F4｜原生 Elastic Snake：根遮罩機制，不是完成髮束
 **來源：** [Blender 2.92](https://www.blender.org/download/releases/2-92/) 的 [Elastic Snake 官方影片](https://www.blender.org/wp-content/uploads/2021/02/sculpt_snake-chopped.mp4) 離散影格；[Grab 4.3 手冊](https://docs.blender.org/manual/en/4.3/sculpt_paint/sculpting/brushes/grab.html) 正文。遮罩手冊僅讀到搜尋節錄，直接頁面402，不能稱全文已讀。
 
