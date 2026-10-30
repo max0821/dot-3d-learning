@@ -1213,5 +1213,320 @@
     "kind": "actual_render_comparison",
     "width": 1200,
     "height": 1370
+  },
+  {
+    "path": "images/bevel-profile-handles/comparison-board.png",
+    "bytes": 586402,
+    "sha256": "373ed13a6b74aac43cc9601b08e41591be774f94d883f0919f26427b644be6c8",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1430
+  },
+  {
+    "path": "images/bevel-profile-handles/reference-comparison.png",
+    "bytes": 562403,
+    "sha256": "951cb27269b537ec630814ec2791be7ed545da3c6725dd8bf80890fe50848d17",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 990
+  },
+  {
+    "path": "images/curve-radius-band-diagnostic/comparison-board.png",
+    "bytes": 392612,
+    "sha256": "bce2562930d25c0e9b527109f6bff5a58be473bdde9d20eddd4fc36e7a993537",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 970
+  },
+  {
+    "path": "images/curve-radius-band-diagnostic/reference-comparison.png",
+    "bytes": 494164,
+    "sha256": "30fc2a0721d4123590a2e7e387f224a7b5c82496640e6c614899fd5b490c35e8",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1010
+  },
+  {
+    "path": "images/curve-speed-continuity/comparison-board.png",
+    "bytes": 440560,
+    "sha256": "d19638bc67711de7acd72f0bba29f13092096a6cd1a4408c89aed173b9889720",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1250
+  },
+  {
+    "path": "images/curve-speed-continuity/reference-comparison.png",
+    "bytes": 441234,
+    "sha256": "a1a51ce6f6c5b6fcb32b7c31f255046acc45ad6839a188e0b537eea2dd7e2cf4",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1010
+  },
+  {
+    "path": "images/forelock-root-flow/comparison-board.png",
+    "bytes": 1137570,
+    "sha256": "72783bcc25b5711ad37532563161dd43dee2f071d6b41d914084b60ca7512cca",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1690
+  },
+  {
+    "path": "images/forelock-root-flow/reference-comparison.png",
+    "bytes": 805636,
+    "sha256": "ee600a1bbc1f47583ec19aebddeca3203a2c255cd54da7e6b72d8a04fa94fbce",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1050
+  },
+  {
+    "path": "images/hair-boundary-design/reference-boundary-analysis.png",
+    "bytes": 1328954,
+    "sha256": "fe2de1da9a306db9f4a217def6b153c5e6be8bf73e5c41ecb193732b3ccd0120",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "user_reference_annotation",
+    "width": 2400,
+    "height": 770
+  },
+  {
+    "path": "images/local-snake-falloff/comparison-board.png",
+    "bytes": 707133,
+    "sha256": "c7ec0a9cdbecac50c3b2e099ad35186ad4aa62829246572b227028f12e30c75e",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1580
+  },
+  {
+    "path": "images/local-snake-falloff/correction-reference-board.png",
+    "bytes": 697638,
+    "sha256": "9a5fee353e671e8b868c66da622a142b0cdc0b47152b7e25885c82eee1912157",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1510
+  },
+  {
+    "path": "images/ridge-curvature-diagnostic/normal-diagnostic-board.png",
+    "bytes": 918670,
+    "sha256": "21d12a82f7142a67f590119a4438209ce0db19b4e4ae1fd58674a5136b87d7c9",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "existing_geometry_diagnostic",
+    "width": 1920,
+    "height": 1160
+  },
+  {
+    "path": "images/ridge-curvature-diagnostic/section-diagnostic.png",
+    "bytes": 248153,
+    "sha256": "eb3004ef51ddfc004ed96e4d02d4a271add0c09d6f96ccff858d2bba84e330e7",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "existing_geometry_diagnostic",
+    "width": 1800,
+    "height": 1200
+  },
+  {
+    "path": "images/ridge-transition-band/comparison-board.png",
+    "bytes": 689758,
+    "sha256": "13d1860d6f8fc4426959650c4649da93a712c11090dfd5a0e025e029795601ee",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1190
+  },
+  {
+    "path": "images/ridge-transition-band/reference-comparison.png",
+    "bytes": 562758,
+    "sha256": "ed5cb761f44dace5f9579561a5142c4f6e2c97d2c97eb69bc09f87f650331ce6",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1440,
+    "height": 1080
+  },
+  {
+    "path": "images/root-entry-direction/comparison-board.png",
+    "bytes": 986076,
+    "sha256": "a4b0362da73429b6173ce83d47711ec3957d5b2cafede9622cc3380beff0f72b",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1450
+  },
+  {
+    "path": "images/root-entry-direction/reference-comparison.png",
+    "bytes": 564713,
+    "sha256": "ec7298d6db2b82cfce7b384c42cd0a603a08afc9c804f72f6950636b948d800e",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1030
+  },
+  {
+    "path": "images/root-surface-flatten/comparison-board.png",
+    "bytes": 778829,
+    "sha256": "d940ae7af0b6ca8251c2efe1c461447663387a149b493484d614cff8ce58beee",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1130
+  },
+  {
+    "path": "images/root-surface-flatten/reference-comparison.png",
+    "bytes": 500558,
+    "sha256": "a196992689a9a3f16e8fa3a8e4056a6438d2c6bcb3197152756dffe221f00737",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1010
+  },
+  {
+    "path": "images/root-taper-scope/comparison-board.png",
+    "bytes": 717804,
+    "sha256": "93f10ed85115a5b8a009476a16cb2b0bb4a42cff9d646a59dad1a25432b1df8a",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1130
+  },
+  {
+    "path": "images/root-taper-scope/reference-comparison.png",
+    "bytes": 526128,
+    "sha256": "9cf2bce57df3ebeceb31e7cdef1f9c1575be29e0922916250fbe8ac72b1e1fd4",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1010
+  },
+  {
+    "path": "images/spike-control-cage/comparison-board.png",
+    "bytes": 715358,
+    "sha256": "864c28ee318f49f080c54bad251afbef7350b5e5ea9799e1a8c223b14e1cfda0",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1885
+  },
+  {
+    "path": "images/spike-control-cage/reference-comparison.png",
+    "bytes": 487598,
+    "sha256": "0cd9c6e0f947f346fa3c3d29a5b0deed05f8d687aeffd240d0053f4a12059756",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 980
+  },
+  {
+    "path": "images/spike-support-edges/comparison-board.png",
+    "bytes": 532981,
+    "sha256": "95ed63e2a5c76846d801417b32e1eb40d2834539ed32e1df4ab0346070fa84c3",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 1425
+  },
+  {
+    "path": "images/spike-support-edges/reference-comparison.png",
+    "bytes": 493543,
+    "sha256": "ef49bf591358499a0c9309853bc1ed0b2cc797b3ea68bfdf4cab76ff8d710954",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1680,
+    "height": 980
+  },
+  {
+    "path": "images/visible-plane-balance/comparison-board.png",
+    "bytes": 692242,
+    "sha256": "f4fa178bc897e8d381146db68808c91b9ab2e807f469311dbb5a8a2958eb9a37",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1190
+  },
+  {
+    "path": "images/visible-plane-balance/reference-comparison.png",
+    "bytes": 599904,
+    "sha256": "5db3e14e388073322eac72f2a06e594ccc0183b6624b1955ab026299dcb509c9",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1440,
+    "height": 1080
+  },
+  {
+    "path": "images/whole-profile-retest/comparison-board.png",
+    "bytes": 754817,
+    "sha256": "b5703c70844901ce9ebccecac9632ae4d98eed58e0e1bc751cfb875f5305097b",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1190
+  },
+  {
+    "path": "images/whole-profile-retest/reference-comparison.png",
+    "bytes": 634054,
+    "sha256": "1e4d81bd2184891b8d958f7240eb0645265f681d1d174fe5cb14d93f98289d22",
+    "source_ownership": "DOTS 自製研究圖／實渲比較板；含使用者授權角色原圖時保留其來源，無第三方教材媒體。",
+    "kind": "actual_render_comparison",
+    "width": 1440,
+    "height": 1080
+  },
+  {
+    "path": "images/forelock-registration-audit/comparison-board.png",
+    "bytes": 1411700,
+    "sha256": "a72ad7f91d5043dd873fb3c52c150df72bb0cd887422b838b0ab3e4c248f62e4",
+    "source_ownership": "DOTS 自製既有模型診斷實渲／對照板；所含角色原圖由使用者提供並允許公開。",
+    "kind": "existing_geometry_new_diagnostic_render",
+    "width": 1920,
+    "height": 1150
+  },
+  {
+    "path": "images/forelock-registration-audit/reference-comparison.png",
+    "bytes": 695424,
+    "sha256": "83ed86ce6ed75dce7773dcd4092ee4fadfab87e4487fd052cb9a4dc523b15ed9",
+    "source_ownership": "DOTS 自製既有模型診斷實渲／對照板；所含角色原圖由使用者提供並允許公開。",
+    "kind": "existing_geometry_new_diagnostic_render",
+    "width": 1440,
+    "height": 690
+  },
+  {
+    "path": "images/forelock-surface-strip/comparison-board.png",
+    "bytes": 1254488,
+    "sha256": "e0e0b9d0213fee421035344eb204db66a4168ceb4be8c481c1775705fe875ac0",
+    "source_ownership": "DOTS自行實渲比較板；所含角色原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1920,
+    "height": 1150
+  },
+  {
+    "path": "images/forelock-surface-strip/reference-comparison.png",
+    "bytes": 607375,
+    "sha256": "e40b21a7d1a07b89a40d96c26c506f2e2d52ecca8c1f518a6de175b210e99c06",
+    "source_ownership": "DOTS自行實渲比較板；所含角色原圖由使用者提供並允許公開。",
+    "kind": "actual_render_comparison",
+    "width": 1440,
+    "height": 680
+  },
+  {
+    "path": "images/forelock-support-gate/comparison-board.png",
+    "bytes": 1270881,
+    "sha256": "b1d3836b6ccde204a4930c8e172618c8fd75028893ea4f9e330e01b9d2c25fc7",
+    "source_ownership": "DOTS自製診斷實渲比較板；前輪舊圖明標，所含使用者原圖允許公開。",
+    "kind": "diagnostic_rerender_comparison",
+    "width": 1920,
+    "height": 1170
+  },
+  {
+    "path": "images/forelock-support-gate/reference-comparison.png",
+    "bytes": 630803,
+    "sha256": "3b62d46454af6ada30208979b2a6d708f91be99190348f9e1191da722840f2e5",
+    "source_ownership": "DOTS自製診斷實渲比較板；前輪舊圖明標，所含使用者原圖允許公開。",
+    "kind": "diagnostic_rerender_comparison",
+    "width": 1440,
+    "height": 720
   }
 ]

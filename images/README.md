@@ -1,6 +1,6 @@
 # 學習圖片目錄
 
-共 137 張精選原始檔，約 83.8 MiB。135張為歷史證據整理，另新增本輪局部工具實驗的2張渲染比較板。完整原始參考集中保存一次；不把第三方教材媒體放進公開倉庫。
+共 170 張精選原始檔，約 106.2 MiB。最新兩板是支承適用性診斷，明標前輪舊渲與本輪舊幾何重渲，沒有新髮形；歷史圖原樣保留，仍本地待同步。
 
 ## 來源與解讀
 
@@ -11,6 +11,36 @@
 - 不宣稱擁有第三方角色設計或教材權利；無額外授權轉載第三方媒體的含意。
 
 ## 實驗入口
+
+- [forelock-registration-audit](../experiments/forelock-registration-audit/NOTES.md)：2張既有幾何的新四向／原圖診斷板，Y0是假設，非接根或新造型
+
+- [forelock-root-flow](../experiments/forelock-root-flow/NOTES.md)：2張A/B/C真實比較板，失敗局部實驗非完成髮型
+
+- [whole-profile-retest](../experiments/whole-profile-retest/NOTES.md)：2張新局部實渲比較板，早期方法恢復回測，不是新完整髮型
+
+- [ridge-curvature-diagnostic](../experiments/ridge-curvature-diagnostic/NOTES.md)：法線四向重渲與截面診斷2張，幾何不改，非新造型
+
+- [ridge-transition-band](../experiments/ridge-transition-band/NOTES.md)：2 張真實渲染比較板
+
+- [visible-plane-balance](../experiments/visible-plane-balance/NOTES.md)：2 張真實渲染比較板
+
+- [hair-boundary-design](../experiments/hair-boundary-design/NOTES.md)：1 張原圖研究標註，非新渲染
+
+- [root-surface-flatten](../experiments/root-surface-flatten/NOTES.md)：2 張
+
+- [root-taper-scope](../experiments/root-taper-scope/NOTES.md)：2 張
+
+- [root-entry-direction](../experiments/root-entry-direction/NOTES.md)：2 張
+
+- [curve-speed-continuity](../experiments/curve-speed-continuity/NOTES.md)：2 張
+
+- [curve-radius-band-diagnostic](../experiments/curve-radius-band-diagnostic/NOTES.md)：2 張
+
+- [bevel-profile-handles](../experiments/bevel-profile-handles/NOTES.md)：2 張
+
+- [spike-support-edges](../experiments/spike-support-edges/NOTES.md)：2 張
+
+- [spike-control-cage](../experiments/spike-control-cage/NOTES.md)：2 張
 
 - [local-snake-falloff](../experiments/local-snake-falloff/NOTES.md)：2 張
 
@@ -75,3 +105,5 @@
 - [whole-clump-study](../experiments/whole-clump-study/NOTES.md)：3 張
 
 [返回首頁](../README.md)
+
+- [支撐線四向比較](spike-support-edges/comparison-board.png) · [原圖比較](spike-support-edges/reference-comparison.png)（本地待同步）

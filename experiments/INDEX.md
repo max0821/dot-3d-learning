@@ -1,6 +1,6 @@
 # 實驗與研究目錄
 
-目前 62 則實驗／研究筆記，不是62項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
+目前 85 則實驗／研究筆記，不是85項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
 
 ## 頭部（5）
 
@@ -10,7 +10,53 @@
 - [頭部整體形體：先分清造型，再驗證方法](head-form-study/NOTES.md)
 - [頭部平面與下顎方向：12:36 學習紀錄](head-plane-study/NOTES.md)
 
-## 頭髮（27）
+## 頭髮（50）
+
+- [可見接點與支承投影門檻｜19:36診斷](forelock-support-gate/NOTES.md)
+
+- [單尖面片最近表面適配失敗｜19:06局部練習](forelock-surface-strip/NOTES.md)
+
+- [H1輸入契約錯配與撤回｜18:36更正](forelock-support-h1/NOTES.md)
+
+- [非正交概念圖與可撤回設計假設｜18:06研究輪](oblique-reference-limits/NOTES.md)
+
+- [前視換算與三維註冊限制｜17:36診斷輪](forelock-registration-audit/NOTES.md)
+
+- [前弧支承：先驗證座標與遮擋｜17:06研究輪](forelock-support-research/NOTES.md)
+
+- [前弧根邊界與尖端分工｜16:36輪](forelock-root-flow/NOTES.md)
+
+- [完整拱面截面恢復回測｜16:06輪](whole-profile-retest/NOTES.md)
+
+- [窄亮帶與評估曲面轉向診斷｜15:36輪](ridge-curvature-diagnostic/NOTES.md)
+
+- [局部主脊倒角與最終面帶｜15:06輪](ridge-transition-band/NOTES.md)
+
+- [可見主脊位置與左右寬面｜14:36輪](visible-plane-balance/NOTES.md)
+
+- [交界分類與六處原圖判讀｜14:06輪](hair-boundary-design/NOTES.md)
+
+- [曲線後原生Flatten塑面：接界未解｜13:36輪](root-surface-flatten/NOTES.md)
+
+- [根端縮半：鼓面未改善｜13:06輪](root-taper-scope/NOTES.md)
+
+- [根彎入主量：接觸不等於過渡｜12:36輪](root-entry-direction/NOTES.md)
+
+- [髮絲薄根不等於實心束接合｜12:06輪](hair-root-contact-source-screen/NOTES.md)
+
+- [底量覆蓋不是髮根焊接｜11:36輪](hair-root-layering-research/NOTES.md)
+
+- [導向速度與近尖端折轉｜11:06輪](curve-speed-continuity/NOTES.md)
+
+- [半徑插值橫帶診斷｜10:36輪](curve-radius-band-diagnostic/NOTES.md)
+
+- [原生Bevel：中央切線與傾斜分離｜10:06輪](bevel-profile-handles/NOTES.md)
+
+- [截面曲率研究：尖邊、尖端與細溝](spike-profile-curvature-research/NOTES.md)
+
+- [支撐線的方向與距離：保寬面，也會留下硬稜](spike-support-edges/NOTES.md)
+
+- [低控制面尖束：保形密化不等於平滑細分](spike-control-cage/NOTES.md)
 
 - [主髮量與交疊：先選符合造型的建構方式｜研究未實作](hair-mass-overlap-research/NOTES.md)
 - [髮束覆蓋餘量：先理解方法，不硬造新版](overlap-margin-research/NOTES.md)

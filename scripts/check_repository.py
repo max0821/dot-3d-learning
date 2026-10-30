@@ -9,8 +9,16 @@ from urllib.parse import unquote, urlsplit
 def check(root):
     errors = []
     notes = sorted((root / 'experiments').glob('*/NOTES.md'))
-    if len(notes) != 62:
-        errors.append(f'Expected 62 experiment notes; found {len(notes)}')
+    index = (root / 'experiments' / 'INDEX.md').read_text(encoding='utf-8')
+    listed = re.findall(r'\]\(([^)]+/NOTES\.md)\)', index)
+    expected = {str(Path('experiments') / path) for path in listed}
+    actual = {str(path.relative_to(root)) for path in notes}
+    if len(listed) != len(expected):
+        errors.append('Duplicate experiment entries in experiments/INDEX.md')
+    for path in sorted(actual - expected):
+        errors.append(f'Unindexed experiment: {path}')
+    for path in sorted(expected - actual):
+        errors.append(f'Indexed experiment missing: {path}')
     private = re.compile(r'(?:Sentinel_|libfile_|CalpicoFile_|file_id|/workspace/|/home/agent/|/tmp/)')
     count = 0
     for page in sorted(root.rglob('*.md')):
