@@ -10,7 +10,9 @@
 - [頭部整體形體：先分清造型，再驗證方法](head-form-study/NOTES.md)
 - [頭部平面與下顎方向：12:36 學習紀錄](head-plane-study/NOTES.md)
 
-## 頭髮（53）
+## 頭髮
+
+- [可見流群分工：非共同根證據](hair-flow-group-map/NOTES.md)（53）
 
 - [完整截面收尖：保長度的原生適配復習](row-crosssection-taper/NOTES.md)
 

@@ -55,6 +55,8 @@
 - **下一步：** 找到造型相近的尖髮作者實際操作，選一個可見根→主量→尖端區練習；遮住的根位置明標假設。
 - **恢復：** [遮擋診斷](experiments/diagonal-clump-study/NOTES.md)、[參考拆解](experiments/hair-occlusion-analysis/NOTES.md)、[前額層次](experiments/front-hair-layer/NOTES.md)、[根研究](experiments/hair-root-research/NOTES.md)、[擷取試驗](experiments/supported-hair-root/NOTES.md)。
 
+F1施工組織補充：[可見流群分工標註](experiments/hair-flow-group-map/NOTES.md)將 U 與 F 的可編輯導向分工，不把舊選邊 J 當共根或必焊接邊；隱藏可能共享支承仍未知。Pennala文字與Squara三圖只支持分群順序，不提供原圖根真值。新參考分析圖，無新模型／渲染，非已驗證3D技能。
+
 ### F2｜曲線路徑、半徑、截面、切線分開控制
 **來源：** [Danny Mac Step3–4](https://blog.cgcookie.com/posts/how-to-model-hair-in-blender/)、[Antoine Dupuis 圖集](https://antoinedupuis.artstation.com/projects/rRqEAa)、[Danyl 作者回答](https://blender.stackexchange.com/questions/101112/how-can-i-create-easily-editable-stylized-hairs-and-fur)、[rogodigital 路徑示範](https://rogodigital.design/tutorials/project-a-shape-along-a-path/)、[六色截面](https://note.com/rikuhayasaka/n/n5ab4a25233d1)、[Autodesk 切線圖解](https://help.autodesk.com/cloudhelp/2021/ENU/PWRM-ReferenceHelp/files/GUID-DAD261C5-F099-430C-BF0A-BB5C06CAFDBC.htm)。
 

@@ -1,0 +1,81 @@
+{
+  "crop": [
+    225,
+    0,
+    430,
+    250
+  ],
+  "uniform_scale": 2,
+  "flow_samples": {
+    "U1": [
+      [
+        388,
+        112
+      ],
+      [
+        382,
+        84
+      ],
+      [
+        367,
+        57
+      ],
+      [
+        343,
+        34
+      ]
+    ],
+    "U2": [
+      [
+        312,
+        97
+      ],
+      [
+        296,
+        79
+      ],
+      [
+        275,
+        62
+      ]
+    ],
+    "F": [
+      [
+        370,
+        122
+      ],
+      [
+        348,
+        111
+      ],
+      [
+        324,
+        116
+      ],
+      [
+        301,
+        136
+      ],
+      [
+        281,
+        167
+      ],
+      [
+        276,
+        189
+      ]
+    ]
+  },
+  "J_old_selected_edge": [
+    [
+      388,
+      123
+    ],
+    [
+      374,
+      142
+    ]
+  ],
+  "classification": "reference analysis only",
+  "caution": "Flow is graphic direction, not proven anatomical growth direction. Hidden connectivity unknown."
+}

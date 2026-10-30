@@ -1582,5 +1582,14 @@
     "kind": "actual_render_comparison",
     "width": 1260,
     "height": 1040
+  },
+  {
+    "path": "images/hair-flow-group-map/reference-flow-groups.png",
+    "bytes": 277069,
+    "sha256": "42ef4d0d67ea8035391395d15e2f01f20997d8c4dbbec9b2d9565ee7e0b0760d",
+    "source_ownership": "使用者授權原圖的自製等比裁切與方向標註；沒有第三方教材媒體。",
+    "kind": "reference_analysis_not_render",
+    "width": 900,
+    "height": 690
   }
 ]

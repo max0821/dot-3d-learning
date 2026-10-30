@@ -1,6 +1,6 @@
 # 學習圖片目錄
 
-共176張精選原始檔，約109.8MiB。最新兩板為完整橫列收尖A/B四向與端視，並明標歷史Pinch圖；小樣不是角色改善。歷史圖原樣保留。
+共177張精選原始檔，約110.0MiB。最新新增可見流群參考標註，非新模型或渲染。最新兩板為完整橫列收尖A/B四向與端視，並明標歷史Pinch圖；小樣不是角色改善。歷史圖原樣保留。
 
 ## 來源與解讀
 
@@ -11,6 +11,8 @@
 - 不宣稱擁有第三方角色設計或教材權利；無額外授權轉載第三方媒體的含意。
 
 ## 實驗入口
+
+- [hair-flow-group-map](../experiments/hair-flow-group-map/NOTES.md)：1張原圖等比方向分群分析，非渲染
 
 - [row-crosssection-taper](../experiments/row-crosssection-taper/NOTES.md)：2張原生截面控制復習板
 
