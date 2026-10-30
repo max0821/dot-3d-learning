@@ -1,0 +1,13 @@
+{
+  "root_and_lower_rows_exactly_equal": true,
+  "z_extent_A": [
+    -0.75,
+    0.75
+  ],
+  "z_extent_B": [
+    -0.75,
+    0.75
+  ],
+  "tip_vertex_count_after_weld": 1,
+  "reopened_saved_files": true
+}

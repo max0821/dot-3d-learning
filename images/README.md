@@ -1,6 +1,6 @@
 # 學習圖片目錄
 
-共174張精選原始檔，約108.4MiB。最新兩板為Pinch平面單變因B/C四向＋端視及定性原圖比較；固定Z仍薄鰭，未整合角色。歷史圖原樣保留。
+共176張精選原始檔，約109.8MiB。最新兩板為完整橫列收尖A/B四向與端視，並明標歷史Pinch圖；小樣不是角色改善。歷史圖原樣保留。
 
 ## 來源與解讀
 
@@ -11,6 +11,8 @@
 - 不宣稱擁有第三方角色設計或教材權利；無額外授權轉載第三方媒體的含意。
 
 ## 實驗入口
+
+- [row-crosssection-taper](../experiments/row-crosssection-taper/NOTES.md)：2張原生截面控制復習板
 
 - [pinch-tip-planes](../experiments/pinch-tip-planes/NOTES.md)：2張B/C原生平面對照真渲板，兩者均未通過
 
@@ -110,4 +112,4 @@
 
 [返回首頁](../README.md)
 
-- [支撐線四向比較](spike-support-edges/comparison-board.png) · [原圖比較](spike-support-edges/reference-comparison.png)（本地待同步）
+- [支撐線四向比較](spike-support-edges/comparison-board.png) · [原圖比較](spike-support-edges/reference-comparison.png)（歷史已發布）

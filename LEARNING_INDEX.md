@@ -95,6 +95,9 @@ F5補充回做：[原生Pinch局部練習](experiments/mass-layer-separation/NOT
 
 F5機制補充：[固定Z平面對照](experiments/pinch-tip-planes/NOTES.md)實讀4.3.2官方pinch.cc與calc_brush_plane，原AREA逐點重播一致；只改Z仍成薄鰭。否證固定法線足以修正本例，不證明筆畫方向是唯一原因。停止掃軸／強度，需作者可見操作證據；非造型進步。
 
+
+F5收尖選法復習：[完整截面收尖](experiments/row-crosssection-taper/NOTES.md)實讀MOTOMODEL作者橫列／拓撲限制說明，未安裝插件。新規則筒以完整橫列固定長度收尖，局部沒有Pinch薄鰭；仍是對稱通用小樣，不符合原圖偏斜層疊髮束。二次衰減與焊點是自製適配，不是新收尖原理、插件實測或角色改善。
+
 ### F6｜局部拉伸較少牽動寬肩，但會形成細頸
 **方法局部驗證，造型未通過。** [本輪實驗與四向圖](experiments/local-snake-falloff/NOTES.md)重讀 [Blender 4.3 Snake Hook](https://docs.blender.org/manual/en/4.3/sculpt_paint/sculpting/brushes/snake_hook.html)，在新連續寬肩草模上比較原生模式，並非仿製 GroomSpike。
 
@@ -352,3 +355,7 @@ F5機制補充：[固定Z平面對照](experiments/pinch-tip-planes/NOTES.md)實
 ## 公開版內容邊界
 
 固定案例為綠衣、紅圍巾、黑尖髮、空手 T pose 的 Q 版三視圖。已附使用者授權的[固定原圖](images/reference/character-three-views.png)及精選實渲／對照／分析圖；各篇文末「公開附圖」的有效連結表示實際附檔，歷史檔名不代表全數上傳。人物模型、原始建模／重播腳本與求解快取仍未納入。上述「恢復」連結導向筆記及已選圖，不代表完整模型恢復資產隨附。請先讀[復現說明](REPRODUCING.md)。
+
+### 完整截面收尖的停止條件補充
+
+[截面小樣及適用性回查](experiments/row-crosssection-taper/NOTES.md)：已有方向的曲線末端 radius 0 與低籠單尖點都已收束。無新的輪廓修正理由，不把已尖主束再次縮窄。是否能用取決於完整列辨識及需求，不是只看有無三角面。此次無新模型／圖、非新增技能；回到主量與前層面轉向。

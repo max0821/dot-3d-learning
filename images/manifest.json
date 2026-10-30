@@ -1564,5 +1564,23 @@
     "kind": "actual_render_comparison",
     "width": 1260,
     "height": 1040
+  },
+  {
+    "path": "images/row-crosssection-taper/comparison-board.png",
+    "bytes": 941886,
+    "sha256": "3dae6a8a43a53cdfa8dec243242351779cdcb44dc260244712d9b3e9340342f8",
+    "source_ownership": "DOTS 自製 Blender 局部實渲／歷史對照；角色參考裁切由使用者提供並明示允許公開。無第三方教學媒體或私人 UI。",
+    "kind": "actual_render_comparison",
+    "width": 2100,
+    "height": 1510
+  },
+  {
+    "path": "images/row-crosssection-taper/reference-comparison.png",
+    "bytes": 512414,
+    "sha256": "d61bcbed2ba9bde01a5391186a9c910ab4cc51295b8942c255fac7044766cbe5",
+    "source_ownership": "DOTS 自製 Blender 局部實渲／歷史對照；角色參考裁切由使用者提供並明示允許公開。無第三方教學媒體或私人 UI。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1040
   }
 ]
