@@ -1546,5 +1546,23 @@
     "kind": "actual_render_comparison",
     "width": 1260,
     "height": 1040
+  },
+  {
+    "path": "images/pinch-tip-planes/comparison-board.png",
+    "bytes": 644527,
+    "sha256": "e57b3d5f57f16ff37eeec2ec9b0f35131276824ff8f45e3f4f2841a1a1b10beb",
+    "source_ownership": "DOTS自行製作真實渲染比較板；原圖裁切已獲使用者公開授權。",
+    "kind": "actual_render_comparison",
+    "width": 2100,
+    "height": 1060
+  },
+  {
+    "path": "images/pinch-tip-planes/reference-comparison.png",
+    "bytes": 492894,
+    "sha256": "b874a6612b97af529b3fae05752dac585074c4077acca3a9610d5c481312785b",
+    "source_ownership": "DOTS自行製作真實渲染比較板；原圖裁切已獲使用者公開授權。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1040
   }
 ]

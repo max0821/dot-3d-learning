@@ -1,6 +1,6 @@
 # 實驗與研究目錄
 
-目前 86 則實驗／研究筆記，不是86項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
+目前 87 則實驗／研究筆記，不是87項已學會的技能。五官與四肢的未完成項見[主索引](../LEARNING_INDEX.md)。研究輪沒有新模型；各頁明列證據與限制。
 
 ## 頭部（5）
 
@@ -10,7 +10,9 @@
 - [頭部整體形體：先分清造型，再驗證方法](head-form-study/NOTES.md)
 - [頭部平面與下顎方向：12:36 學習紀錄](head-plane-study/NOTES.md)
 
-## 頭髮（51）
+## 頭髮（52）
+
+- [Pinch筆刷平面單變因：固定Z仍薄鰭](pinch-tip-planes/NOTES.md)
 
 - [原生Pinch收尖復習：薄鰭失敗](mass-layer-separation/NOTES.md)
 

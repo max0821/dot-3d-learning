@@ -1,0 +1,25 @@
+{
+  "native_operator_result": [
+    "FINISHED"
+  ],
+  "tool": "PINCH",
+  "blender": "4.3.2",
+  "vertices": 12680,
+  "changed_vertices": 3304,
+  "max_displacement": 0.46075567287500685,
+  "root_below_z002_max": 0.0,
+  "strength": 0.699999988079071,
+  "size_px": 110,
+  "events": 41,
+  "region": [
+    974,
+    705
+  ],
+  "sculpt_plane": "Z",
+  "frontface_only": false,
+  "assumption": "tip viewed axially; our brush path/settings, not reconstruction of author strokes",
+  "baseline": {
+    "minz": -0.75,
+    "maxz": 0.75
+  }
+}

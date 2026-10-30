@@ -93,6 +93,8 @@
 
 F5補充回做：[原生Pinch局部練習](experiments/mass-layer-separation/NOTES.md)已實作。Soni步29–30文字與兩靜圖重讀實看；隔離Blender原生Pinch，不複製作者筆觸。正視收尖但斜／端視成薄鰭，B失敗不採用；不疊筆畫或升格為掌握收尖。
 
+F5機制補充：[固定Z平面對照](experiments/pinch-tip-planes/NOTES.md)實讀4.3.2官方pinch.cc與calc_brush_plane，原AREA逐點重播一致；只改Z仍成薄鰭。否證固定法線足以修正本例，不證明筆畫方向是唯一原因。停止掃軸／強度，需作者可見操作證據；非造型進步。
+
 ### F6｜局部拉伸較少牽動寬肩，但會形成細頸
 **方法局部驗證，造型未通過。** [本輪實驗與四向圖](experiments/local-snake-falloff/NOTES.md)重讀 [Blender 4.3 Snake Hook](https://docs.blender.org/manual/en/4.3/sculpt_paint/sculpting/brushes/snake_hook.html)，在新連續寬肩草模上比較原生模式，並非仿製 GroomSpike。
 

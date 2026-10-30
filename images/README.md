@@ -1,6 +1,6 @@
 # 學習圖片目錄
 
-共172張精選原始檔，約107.3MiB。最新兩板為原生Pinch復習A/B四向＋端視及定性原圖比較；正面尖但斜角薄鰭，失敗未整合角色。歷史圖原樣保留。
+共174張精選原始檔，約108.4MiB。最新兩板為Pinch平面單變因B/C四向＋端視及定性原圖比較；固定Z仍薄鰭，未整合角色。歷史圖原樣保留。
 
 ## 來源與解讀
 
@@ -11,6 +11,8 @@
 - 不宣稱擁有第三方角色設計或教材權利；無額外授權轉載第三方媒體的含意。
 
 ## 實驗入口
+
+- [pinch-tip-planes](../experiments/pinch-tip-planes/NOTES.md)：2張B/C原生平面對照真渲板，兩者均未通過
 
 - [mass-layer-separation](../experiments/mass-layer-separation/NOTES.md)：2張原生Pinch復習真渲比較板，非完成髮束
 
