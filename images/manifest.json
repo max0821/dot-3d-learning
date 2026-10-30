@@ -1528,5 +1528,23 @@
     "kind": "diagnostic_rerender_comparison",
     "width": 1440,
     "height": 720
+  },
+  {
+    "path": "images/mass-layer-separation/comparison-board.png",
+    "bytes": 656183,
+    "sha256": "3a4e3e1e3e54a6e60434e7adbf4cb8238c4d376ecfd36d901c687a10a1eefba7",
+    "source_ownership": "DOTS自行製作真實渲染比較板；若含固定原圖裁切，原圖已獲使用者公開授權。",
+    "kind": "actual_render_comparison",
+    "width": 2100,
+    "height": 1060
+  },
+  {
+    "path": "images/mass-layer-separation/reference-comparison.png",
+    "bytes": 503171,
+    "sha256": "ba295cbbc635c21c4189878b1ab60cdf739d4a63c3160c8190ea13e89debe9c0",
+    "source_ownership": "DOTS自行製作真實渲染比較板；若含固定原圖裁切，原圖已獲使用者公開授權。",
+    "kind": "actual_render_comparison",
+    "width": 1260,
+    "height": 1040
   }
 ]

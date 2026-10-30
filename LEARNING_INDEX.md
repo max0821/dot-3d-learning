@@ -91,6 +91,8 @@
 - **當時提出的受控試驗（後續已執行，見 F6）：** 已具寬肩厚度的單束草模上固定根遮罩、網格、視窗及筆觸，只比 Elastic 與 Radius Falloff。先不加 Dyntopo／Remesh／Pinch／平滑等變數。細針、回鉤或錯誤主量仍判失敗，不整合人物。
 - **本輪無新模型、無新渲染。** 研究理解不能宣稱造型進步。
 
+F5補充回做：[原生Pinch局部練習](experiments/mass-layer-separation/NOTES.md)已實作。Soni步29–30文字與兩靜圖重讀實看；隔離Blender原生Pinch，不複製作者筆觸。正視收尖但斜／端視成薄鰭，B失敗不採用；不疊筆畫或升格為掌握收尖。
+
 ### F6｜局部拉伸較少牽動寬肩，但會形成細頸
 **方法局部驗證，造型未通過。** [本輪實驗與四向圖](experiments/local-snake-falloff/NOTES.md)重讀 [Blender 4.3 Snake Hook](https://docs.blender.org/manual/en/4.3/sculpt_paint/sculpting/brushes/snake_hook.html)，在新連續寬肩草模上比較原生模式，並非仿製 GroomSpike。
 

@@ -1,6 +1,6 @@
 # 學習圖片目錄
 
-共 170 張精選原始檔，約 106.2 MiB。最新兩板是支承適用性診斷，明標前輪舊渲與本輪舊幾何重渲，沒有新髮形；歷史圖原樣保留，已隨19:59同步發布。本輪20:06僅補充方法限制，沒有新增圖片。
+共172張精選原始檔，約107.3MiB。最新兩板為原生Pinch復習A/B四向＋端視及定性原圖比較；正面尖但斜角薄鰭，失敗未整合角色。歷史圖原樣保留。
 
 ## 來源與解讀
 
@@ -11,6 +11,8 @@
 - 不宣稱擁有第三方角色設計或教材權利；無額外授權轉載第三方媒體的含意。
 
 ## 實驗入口
+
+- [mass-layer-separation](../experiments/mass-layer-separation/NOTES.md)：2張原生Pinch復習真渲比較板，非完成髮束
 
 - [forelock-registration-audit](../experiments/forelock-registration-audit/NOTES.md)：2張既有幾何的新四向／原圖診斷板，Y0是假設，非接根或新造型
 
