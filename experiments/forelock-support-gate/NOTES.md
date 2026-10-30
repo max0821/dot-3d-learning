@@ -44,3 +44,21 @@ build.py相對路徑讀入source-input/registered-context.blend，保留原圖�
 ![等比原圖與支承高度診斷](../../images/forelock-support-gate/reference-comparison.png)
 
 [原生門檻診斷腳本](build.py)及[比較板腳本](boards.py)為自製可審查方法。需要未公開的source-input模型、原圖副本、註冊數據及前輪渲染；公開庫不是獨立可恢復模型套件。沒有新髮形，不以舊圖或診斷標線冒充改良成果。
+
+
+## 20:06 補充：換成現有主束仍沒有接收面，停止重複餘量試驗
+
+2026-10-30 12:06 UTC 輪。**只有研究與不改形診斷；無新模型、無新渲染、無造型改善。** 這是原方法適用限制，不新增技能卡，也不把原來兩板當本輪成果。
+
+### 新證據與實看範圍
+- 保持相同5個高位交界取樣與正面等比註冊，改檢查現有主束／鄰束沿+Y是否有接收面。主束最低Z=4.098882，高於選邊最高Z=4.092549，5/5未命中；鄰束最低Z=4.079477雖局部高度重疊，仍無相同X/Z的面，5/5未命中。只讀輸入建立BVH，沒有更改或另存模型。這只否定此歷史三束輸入的適用性，不代表所有髮型皆不能如此連接；Y=0仍是假設。
+- [UCBUGG Polygon Hair Modeling](https://www.ucbugg.com/labs/modeling/polygon-hair-modeling)：重讀Front Hair、Side Hair、Notes及重看picture20，新增實看picture22/23兩張靜圖。前殼、後側橫束、向下側束有區域分工，作者也調整部分後髮曲線以配合側束方向。但靜圖無法顯示隱藏根截面，不等於看過逐步操作；長馬尾案例不能當短尖髮精確解。
+- [Soni Kumari Goku Part 1](https://design.tutsplus.com/tutorials/creating-dragon-balls-goku-in-z-brush-and-maya-part-1--cms-33816)：重讀27–39步正文；本輪A32/A36圖片抓取失敗，未重新觀看，分層順序也非新增方法。
+- [aVersionOfReality Flat Modeling Anime Hair](https://www.blendernation.com/2020/02/01/flat-modeling-anime-hair/)只讀投稿概述與方法清單，影片未看，僅候選，不據此使用變形器或稱已學會。
+
+### 撤回及下輪停止條件
+曾考慮從主束下緣延伸遮擋餘量，但回讀[既有餘量失敗](../hair-overlap-margin/NOTES.md)及[餘量來源研究](../overlap-margin-research/NOTES.md)後撤回：後緣連接並非新來源機制，今天靜圖未提供避免折板／矩形根的方法。未擠出、未加束遮縫、未重渲舊圖湊成果。
+
+下次不要再測同一高邊投頭／投主束、改Y或延伸tab。改問：**寬前層殼如何與主髮量共同設計，並在側斜視保留有意義的面轉向？** 必須先取得可觀察的具體操作或分階段幾何，不能只看遮住根的完成圖。未知深度仍只可作可撤回設計假設，不是原圖真值。
+
+私人研究保留不改形檢查腳本、結果與相同雜湊輸入；本次未新增公開模型／圖片或第三方媒體。公開本文保留可核對條件及數據，不是獨立模型恢復套件。iteration04不變。
